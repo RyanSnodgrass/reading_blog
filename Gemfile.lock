@@ -136,7 +136,6 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  autoprefixer-rails (~> 10.4)
   base64
   bigdecimal
   builder (~> 3.0)
