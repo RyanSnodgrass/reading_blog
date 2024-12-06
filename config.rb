@@ -76,3 +76,9 @@ configure :build do
   # Minify Javascript on build
   # activate :minify_javascript
 end
+
+activate :external_pipeline,
+  name: :tailwind,
+  command: "npx tailwindcss -i ./source/stylesheets/site.css -o ./dist/stylesheets/site.css #{"--watch" unless build?}",
+  latency: 2,
+  source: "./dist/"
