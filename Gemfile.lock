@@ -44,6 +44,7 @@ GEM
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
     hashie (3.6.0)
+    htmlbeautifier (1.4.3)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     kramdown (2.5.1)
@@ -140,6 +141,7 @@ DEPENDENCIES
   bigdecimal
   builder (~> 3.0)
   csv
+  htmlbeautifier
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
   middleman-blog

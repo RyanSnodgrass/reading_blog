@@ -21,3 +21,6 @@ gem 'base64'
 gem 'csv'
 gem 'mutex_m'
 gem 'bigdecimal'
+
+# lint erb files since I'm always blowing away all my system gems.
+gem 'htmlbeautifier'
