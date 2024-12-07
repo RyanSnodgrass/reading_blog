@@ -6,7 +6,12 @@ module.exports = {
     './source/**/*.{html,erb}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'sans': ['lato', 'ui-sans-serif', 'system-ui'],
+        'serif': ['playfair display']
+      },
+    },
   },
   plugins: [],
 }
