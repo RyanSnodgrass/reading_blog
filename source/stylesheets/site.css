@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer components {
+  .article-text {
+    @apply text-lg md:text-xl/8 font-serif;
+  }
   .article-blog-post h1 {
     @apply text-4xl mt-12;
   }
@@ -13,7 +16,7 @@
     @apply text-2xl mt-12;
   }
   .article-blog-post p {
-    @apply text-lg md:text-xl/8 font-serif  mt-5;
+    @apply article-text  mt-5;
   }
   /* default 18px
   md at 20px */
@@ -21,13 +24,13 @@
   .article-blog-post ul {
     @apply mt-5;
     li {
-      @apply list-disc mt-2 ml-7 text-lg md:text-xl/8 font-serif leading-8;
+      @apply list-disc mt-2 ml-7 article-text leading-8;
     }
   }
   .article-blog-post ol {
     @apply mt-5;
     li {
-      @apply list-decimal mt-2 ml-7 text-lg md:text-xl/8 font-serif leading-8;
+      @apply list-decimal mt-2 ml-7 article-text leading-8;
     }
   }
   .article-blog-post blockquote {

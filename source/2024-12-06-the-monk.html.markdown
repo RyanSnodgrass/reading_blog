@@ -3,6 +3,9 @@
 title: The Monk
 date: 2024-12-06 03:00 UTC
 tags: 
+  - Gothic
+  - English
+  - Fiction
 
 ---
 

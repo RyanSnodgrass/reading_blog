@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       fontFamily: {
         'sans': ['lato', 'ui-sans-serif', 'system-ui'],
-        'serif': ['playfair display']
+        'serif': ['playfair display'],
+        'navbar': ['lato']
       },
     },
   },
