@@ -60,11 +60,11 @@ page "/feed.xml", layout: false
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def current_page?(path)
+    current_page.url.chomp('/') == path.chomp('/')
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
