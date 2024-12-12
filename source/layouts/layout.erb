@@ -16,7 +16,9 @@
   </head>
   <body>
     <%= partial "navbar" %>
-    <main class="bg-stone-50">
+    <!-- header(h-14 or 56px) + footer(h-32 or 128px) -->
+    <!-- header(h-14 or 56px) + footer(h-40 or 160px) -->
+    <main class="bg-stone-50 min-h-[calc(100vh-216px)] md:min-h-[calc(100vh-184px)]">
       <div id="main" role="main">
         <%= yield %>
       </div>
