@@ -1,8 +1,28 @@
 <% wrap_layout :layout do %>
-  <%= image_tag current_article.title.gsub(/\s+/, "") + '.jpg', class: "w-36" %>
   <div class="flex flex-row justify-center">
-    <div class="max-w-3xl px-6 pb-6 article-blog-post">
-      <%= yield %>
+    <div class="max-w-2xl px-6 py-6">
+      <%= image_tag current_article.title.gsub(/\s+/, "") + '.jpg', class: "w-full" %>
+      <h1 class="text-4xl font-sans font-bold dark:text-white pt-6">
+        <%= current_article.title %>
+      </h1>
+      <p class="text-lg font-sans italic pt-4 text-gray-600">
+        By <%= current_article.data.author %>
+      </p>
+      <P class="font-sans italic pt-1 text-gray-600">
+        Published <%= current_article.data.publish_date %>
+      </p>
+      <p class="font-sans italic pt-1 text-gray-600">
+        <%= current_article.data.estimated_time %> read
+      </p>
+      <div class="flex justify-center pt-7 pb-5">
+        <div class="w-1/4 border-t border-gray-800"></div>
+      </div>
+      <div class="article-blog-post">
+        <%= yield %>
+      </div>
+      <p class="font-sans italic pt-1 text-gray-600">
+        - Posted on <%= current_article.date.strftime("%a, %d %b %Y") %>
+      </p>
     </div>
   </div>
   <% blog.articles[0...5].each do |article| %>
@@ -10,6 +30,7 @@
       <h1>
         <a href="<%= article.url %>"><%= article.title %></a>
         <time><%= article.date.strftime('%b %e %Y') %></time>
+        <%= article.data.author %>
       </h1>
       <a href="<%= article.url %>">Read more</a>
     </article>

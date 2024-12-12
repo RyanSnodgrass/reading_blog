@@ -7,10 +7,11 @@ tags:
   - English
   - Fiction
   - Reading
+author: Matthew Lewis
+estimated_time: 6.5 min
+publish_date: 1796
 
 ---
-
-# The Monk
 
 Considered so lewd, profane, and obscene that the author censored further editions to prevent being charged with indecency. It caused such an outrage it naturally became a bestseller. Today I’m going over The Monk by Matthew Lewis. 
 
