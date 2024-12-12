@@ -14,13 +14,13 @@
     @apply text-lg md:text-xl/8 font-serif;
   }
   .article-blog-post h1 {
-    @apply text-4xl mt-12;
+    @apply text-4xl mt-12 font-sans;
   }
   .article-blog-post h2 {
-    @apply text-3xl mt-12;
+    @apply text-3xl mt-12 font-sans;
   }
   .article-blog-post h3 {
-    @apply text-2xl mt-12;
+    @apply text-2xl mt-12 font-sans;
   }
   .article-blog-post p {
     @apply article-text  mt-5;

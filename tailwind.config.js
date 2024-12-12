@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['lato', 'ui-sans-serif', 'system-ui'],
+        'sans': ['Karla', 'ui-sans-serif', 'system-ui'],
         'serif': ['playfair display'],
         'navbar': ['lato']
       },
