@@ -24,3 +24,6 @@ gem 'bigdecimal'
 
 # lint erb files since I'm always blowing away all my system gems.
 gem 'htmlbeautifier'
+
+# Used to make summaries
+gem 'nokogiri'

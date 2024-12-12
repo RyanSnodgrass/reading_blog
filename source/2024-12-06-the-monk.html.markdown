@@ -6,10 +6,9 @@ tags:
   - Gothic
   - English
   - Fiction
+  - Reading
 
 ---
-
-![The Monk Cover](the_monk_cover.jpg)
 
 # The Monk
 

@@ -15,4 +15,8 @@ module.exports = {
     },
   },
   plugins: [],
+  safelist: [
+    // artricle cover image
+    'w-36',
+  ]
 }

@@ -43,4 +43,7 @@
   .article-blog-post blockquote {
     @apply p-4 my-4 border-s-4 border-gray-300 bg-gray-100 dark:border-gray-500 dark:bg-gray-800;
   }
+  .article-cover-pic {
+    @apply w-36;
+  }
 }
