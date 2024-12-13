@@ -4,7 +4,7 @@
     <!-- sets a max width optimum for reading -->
     <div class="max-w-2xl px-6 py-6">
       <!-- flex around different view sizes for the cover pic and title -->
-      <div class="flex flex-wrap flex-col md:flex-row gap-x-6">
+      <div class="flex flex-col md:flex-row gap-x-6">
         <div class="flex justify-center">
           <%= image_tag current_article.title.gsub(/\s+/, "") + '.jpg', class: "max-w-72 md:w-52" %>
         </div>
@@ -12,13 +12,13 @@
           <h1 class="text-4xl font-sans font-bold dark:text-white pt-8 md:pt-1">
             <%= current_article.title %>
           </h1>
-          <p class="text-lg font-sans italic pt-4 text-gray-600">
+          <p class="text-lg font-sans font-light pt-4 text-gray-600">
             By <%= current_article.data.author %>
           </p>
-          <P class="font-sans italic pt-1 text-gray-600">
+          <P class="font-sans font-light pt-1 text-gray-600">
             Published <%= current_article.data.publish_date %>
           </p>
-          <p class="font-sans italic pt-1 text-gray-600">
+          <p class="font-sans font-light pt-1 text-gray-600">
             <%= current_article.data.estimated_time %> read
           </p>
         </div>
