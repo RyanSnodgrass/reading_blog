@@ -36,14 +36,31 @@
       </p>
     </div>
   </div>
-  <% blog.articles[0...5].each do |article| %>
-    <article>
-      <h1>
-        <a href="<%= article.url %>"><%= article.title %></a>
-        <time><%= article.date.strftime('%b %e %Y') %></time>
-        <%= article.data.author %>
-      </h1>
-      <a href="<%= article.url %>">Read more</a>
-    </article>
-  <% end %>
+  <div class="pt-7 pb-5 max-w-2xl px-6 py-6 mx-auto">
+    <div class="border-t border-gray-800"></div>
+    <h1 class="text-4xl font-sans font-bold dark:text-white pt-8">
+      Latest Articles
+    </h1>
+    <% blog.articles[0...5].each do |article| %>
+      <div class="flex flex-col gap-x-6 mt-4 grow">
+        <%= link_to image_tag(article.title.gsub(/\s+/, "") + '.jpg'), article, class: "hidden md:inline w-44" %>
+        <%= link_to article.title, article,
+            class: "text-3xl font-sans font-bold dark:text-white pt-8 md:pt-1 hover:link-hover-color" %>
+        <div class="mt-1 text-gray-600 font-serif text-lg">
+          <%= article.summary(100) %>
+        </div>
+        <div class="flex flex-row justify-between">
+          <p class="font-sans font-light text-gray-600">
+            <%= article.data.estimated_time %> read
+          </p>
+          <p class="font-sans font-light pt-1 text-gray-600 align-right">
+            Posted <%= article.date.strftime("%a, %d %b %Y") %>
+          </p>
+        </div>
+        <% article.tags[0..2].each do |tag| %>
+          <%= link_to tag, tag %>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
 <% end %>

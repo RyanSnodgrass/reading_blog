@@ -8,6 +8,10 @@ estimated_time: 1 min
 
 ---
 
+Am I the only one that does this?
+
+READMORE
+
 I try to keep my books in pristine condition. The feel of them and the tactile relationship you have of them. I don’t do dog ears and I always peel the purchase sticker off. I’ll wash my hands before a serious reading session. When I read I try not to bend the binding too much. I hate that feeling of a crackly old book from the 70s with the U shaped binding. Maybe ‘cause I appreciate the symmetry of a well stocked victorian library. 
 
 You might be surprised to know that as much as I try to keep them nice, I like the feel of a well worn book.

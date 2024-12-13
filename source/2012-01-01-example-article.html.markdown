@@ -1,6 +1,7 @@
 ---
 title: Example Article
 date: 2012-01-01
+estimated_time: 1 min
 tags:
   - Reading
 ---
