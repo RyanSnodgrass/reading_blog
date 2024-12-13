@@ -64,6 +64,14 @@ helpers do
   def current_page?(path)
     current_page.url.chomp('/') == path.chomp('/')
   end
+
+  def article_author_shower(article)
+    article.data.author.present? ? "By #{article.data.author}" : ""
+  end
+
+  def article_publish_date_shower(article)
+    article.data.publish_date.present? ? "Published #{article.data.publish_date}" : ""
+  end
 end
 
 # Build-specific configuration

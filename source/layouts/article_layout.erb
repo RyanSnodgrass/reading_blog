@@ -13,10 +13,10 @@
             <%= current_article.title %>
           </h1>
           <p class="text-lg font-sans font-light pt-4 text-gray-600">
-            By <%= current_article.data.author %>
+            <%= article_author_shower(current_article) %>
           </p>
           <P class="font-sans font-light pt-1 text-gray-600">
-            Published <%= current_article.data.publish_date %>
+            <%= article_publish_date_shower(current_article) %>
           </p>
           <p class="font-sans font-light pt-1 text-gray-600">
             <%= current_article.data.estimated_time %> read
