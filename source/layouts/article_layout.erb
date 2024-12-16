@@ -34,6 +34,9 @@
       <p class="font-sans italic pt-4 text-gray-600 text-lg">
         - Posted on <%= current_article.date.strftime("%a, %d %b %Y") %>
       </p>
+      <% current_article.tags.each do |tag| %>
+        <%= link_to tag, tag_path(tag), class: "tag-pill" %>
+      <% end %>
     </div>
   </div>
   <div class="pt-7 pb-5 max-w-2xl px-6 py-6 mx-auto">
