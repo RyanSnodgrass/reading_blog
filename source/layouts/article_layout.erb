@@ -31,11 +31,11 @@
       <div class="article-blog-post">
         <%= yield %>
       </div>
-      <p class="font-sans italic pt-4 text-gray-600 text-lg">
+      <p class="font-sans italic py-4 text-gray-600 text-lg">
         - Posted on <%= current_article.date.strftime("%a, %d %b %Y") %>
       </p>
       <% current_article.tags.each do |tag| %>
-        <%= link_to tag, tag_path(tag), class: "tag-pill" %>
+        <%= link_to tag, tag_path(tag), class: "active-tag-pill" %>
       <% end %>
     </div>
   </div>
@@ -50,46 +50,23 @@
         <div class="flex flex-col justify-between p-4 leading-normal w-full">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><%= article.title %></h5>
           <div class="mb-3 font-normal text-gray-700 dark:text-gray-400"><%= article.summary(100) %></div>
-          <div class="flex flex-row gap-x-4 mb-2">
+          <div class="flex flex-row justify-between mb-3">
+            <p class="font-sans font-light text-md text-gray-600">
+              <%= article.data.estimated_time %> read
+            </p>
+            <p class="font-sans font-light text-md text-gray-600 align-right">
+              Posted <%= article.date.strftime("%a, %d %b %Y") %>
+            </p>
+          </div>
+          <div class="flex flex-row gap-x-4">
             <% article.tags[0..2].each do |tag| %>
               <div class="tag-pill">
                 <%= tag %>
               </div>
             <% end %>
           </div>
-          <div class="flex flex-row justify-between">
-            <p class="font-sans font-light text-md text-gray-600">
-              <%= article.data.estimated_time %> read
-            </p>
-            <p class="font-sans font-light text-md text-gray-600 align-right">
-              Posted <%= article.date.strftime("%a, %d %b %Y") %>
-            </p>
-          </div>
         </div>
       <% end %>
-      <!-- <div class="flex flex-col md:flex-row gap-x-6 mt-4 grow">
-        <%= link_to image_tag(article.title.gsub(/\s+/, "") + '.jpg'), article, class: "hidden md:inline w-44" %>
-        <div class="flex flex-col place-items-stretch w-full">
-          <%= link_to article.title, article,
-            class: "text-2xl font-sans font-bold dark:text-white pt-8 md:pt-0 hover:link-hover-color" %>
-          <div class="mt-1 text-gray-600 font-serif text-md">
-            <%= article.summary(100) %>
-          </div>
-          <div class="flex flex-row justify-between">
-            <p class="font-sans font-light text-md text-gray-600">
-              <%= article.data.estimated_time %> read
-            </p>
-            <p class="font-sans font-light text-md text-gray-600 align-right">
-              Posted <%= article.date.strftime("%a, %d %b %Y") %>
-            </p>
-          </div>
-          <div class="flex flex-row gap-x-4 ">
-            <% article.tags[0..2].each do |tag| %>
-              <%= link_to tag, tag_path(tag), class: "tag-pill" %>
-            <% end %>
-          </div>
-        </div>
-      </div>-->
     <% end %>
   </div>
 <% end %>
