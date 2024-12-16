@@ -45,24 +45,28 @@
       Latest Articles
     </h1>
     <% blog.articles[0...5].each do |article| %>
-      <div class="flex flex-col gap-x-6 mt-4 grow">
+      <div class="flex flex-col md:flex-row gap-x-6 mt-4 grow">
         <%= link_to image_tag(article.title.gsub(/\s+/, "") + '.jpg'), article, class: "hidden md:inline w-44" %>
-        <%= link_to article.title, article,
-            class: "text-3xl font-sans font-bold dark:text-white pt-8 md:pt-1 hover:link-hover-color" %>
-        <div class="mt-1 text-gray-600 font-serif text-lg">
-          <%= article.summary(100) %>
+        <div class="flex flex-col place-items-stretch w-full">
+          <%= link_to article.title, article,
+            class: "text-2xl font-sans font-bold dark:text-white pt-8 md:pt-0 hover:link-hover-color" %>
+          <div class="mt-1 text-gray-600 font-serif text-md">
+            <%= article.summary(100) %>
+          </div>
+          <div class="flex flex-row justify-between">
+            <p class="font-sans font-light text-md text-gray-600">
+              <%= article.data.estimated_time %> read
+            </p>
+            <p class="font-sans font-light text-md text-gray-600 align-right">
+              Posted <%= article.date.strftime("%a, %d %b %Y") %>
+            </p>
+          </div>
+          <div class="flex flex-row gap-x-4 ">
+            <% article.tags[0..2].each do |tag| %>
+              <%= link_to tag, tag_path(tag), class: "tag-pill" %>
+            <% end %>
+          </div>
         </div>
-        <div class="flex flex-row justify-between">
-          <p class="font-sans font-light text-gray-600">
-            <%= article.data.estimated_time %> read
-          </p>
-          <p class="font-sans font-light pt-1 text-gray-600 align-right">
-            Posted <%= article.date.strftime("%a, %d %b %Y") %>
-          </p>
-        </div>
-        <% article.tags[0..2].each do |tag| %>
-          <%= link_to tag, tag %>
-        <% end %>
       </div>
     <% end %>
   </div>
