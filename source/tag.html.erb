@@ -2,18 +2,19 @@
 pageable: true
 per_page: 12
 ---
-<h1>Articles tagged '<%= tagname %>'</h1>
-<% if paginate && num_pages > 1 %>
-  <p>Page <%= page_number %> of <%= num_pages %></p>
-  <% if prev_page %>
-    <p><%= link_to 'Previous page', prev_page %></p>
+<div class="max-w-2xl pt-6 mx-auto px-6 pb-16">
+  <h2 class="text-4xl mb-12 mt-4 font-serif text-center"><%= tagname %></h2>
+  <% if paginate && num_pages > 1 %>
+    <p>Page <%= page_number %> of <%= num_pages %></p>
+    <% if prev_page %>
+      <p><%= link_to 'Previous page', prev_page %></p>
+    <% end %>
   <% end %>
-<% end %>
-<ul>
+
   <% page_articles.each_with_index do |article, i| %>
     <%= partial("article_card", locals: { article: article }) %>
   <% end %>
-</ul>
+</div>
 <% if paginate %>
   <% if next_page %>
     <p><%= link_to 'Next page', next_page %></p>
