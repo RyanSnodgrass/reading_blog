@@ -1,0 +1,26 @@
+---
+
+title: "Untitled Poem #1"
+date: 2024-12-18 18:50 UTC
+tags: 
+  - Poetry
+author: Ryan Snodgrass
+estimated_time: 1 min
+excerpt: Something silly I put together
+cover_image: UntitledPoem1.jpg
+
+---
+
+Way back when
+
+There was a wife fair
+
+Who dreamed a dream
+
+But couldn't climb stairs
+
+Had herself a lovely child
+
+Who took to the wild
+
+And didn't care for her lovely hair

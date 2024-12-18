@@ -11,11 +11,12 @@ tags:
 author: Matthew Lewis
 estimated_time: 6.5 min
 publish_date: 1796
+excerpt: Even before the internet was a thing, people already used Lorem Ipsum as a filler in printing tests.
+cover_image: TheMonk.jpg
 
 ---
 
 Considered so lewd, profane, and obscene that the author censored further editions to prevent being charged with indecency. It caused such an outrage it naturally became a bestseller. Today I’m going over The Monk by Matthew Lewis. 
-
 
 Published in 1796 it is considered an exemplar of the Gothic fiction genre. I read the Penguin Classics publication which used the text from the pre-censorship first edition. And, actually yeah, I can see what they were upset about.
 

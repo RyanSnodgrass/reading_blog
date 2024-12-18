@@ -40,3 +40,12 @@ per_page: 10
     <% end %>
   </div>
 </div>
+<div class="">
+  <div class="max-w-2xl pt-6 mx-auto px-6 pb-16">
+    <h2 class="text-4xl mb-12 mt-4 font-serif text-center">Tags</h2>
+    <% blog.tags.each do |tag| %>
+      <p><%= tag.first %></p>
+
+    <% end %>
+  </div>
+</div>
