@@ -1,17 +1,18 @@
-<nav class="bg-stone-200 dark:bg-stone-800 h-14">
+<nav class="bg-bittersweet dark:bg-stone-800 h-14">
   <div class="h-full flex items-center justify-center md:justify-start common-width">
     <ul class="font-medium font-navbar flex flex-row space-x-8 rtl:space-x-reverse">
       <li class=<%= current_page?("/") ? "nav-link-active" : "nav-link" %>>
         <a href="/">Home</a>
       </li>
-      <li class=<%= current_page?("/about.html") ? "nav-link-active" : "nav-link" %>>
+      <!-- <li class=<%= current_page?("/about.html") ? "nav-link-active" : "nav-link" %>>
         <a href="/about.html">About</a>
+      </li> -->
+      <li class=<%= current_page?("/tags/reading.html") ? "nav-link-active" : "nav-link" %>>
+        <%= link_to "Reading", tag_path("Reading") %>
+        <!-- <a href="<%= tag_path("Reading")%>">Reading</a> -->
       </li>
-      <li class=<%= current_page?("#") ? "nav-link-active" : "nav-link" %>>
-        <a href="#">Books</a>
-      </li>
-      <li class=<%= current_page?("#") ? "nav-link-active" : "nav-link" %>>
-        <a href="#">Code</a>
+      <li class=<%= current_page?("/tags/code.html") ? "nav-link-active" : "nav-link" %>>
+        <%= link_to "Code", tag_path("Code") %>
       </li>
     </ul>
   </div>
