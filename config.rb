@@ -90,3 +90,7 @@ activate :external_pipeline,
   command: "npx tailwindcss -i ./source/stylesheets/site.css -o ./dist/stylesheets/site.css #{"--watch" unless build?}",
   latency: 2,
   source: "./dist/"
+
+set :markdown_engine, :redcarpet
+set :markdown, fenced_code_blocks: true, smartypants: true
+activate :syntax
