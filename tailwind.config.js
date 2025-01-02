@@ -22,6 +22,7 @@ module.exports = {
         'bittersweet': '#F87666',
         'celadon': '#B3EFB2',
         'alice-blue': '#E8F1F2',
+        'neon-blue': '#4763EB',
       },
     },
   },

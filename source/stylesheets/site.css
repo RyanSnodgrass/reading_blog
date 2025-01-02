@@ -7,7 +7,7 @@
     @apply px-2 pb-2 bg-gray-200 overflow-scroll text-sm mt-4;
   }
   .active-tag-pill {
-    @apply px-3 py-2 text-xs font-medium text-center text-black bg-xanthous rounded-full hover:bg-bittersweet focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800;
+    @apply px-3 py-2 text-xs font-medium text-center text-white bg-neon-blue rounded-full hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800;
   }
   .tag-pill {
     @apply px-3 py-1 text-xs font-medium text-center text-white bg-gray-500 rounded-full dark:bg-blue-600;
