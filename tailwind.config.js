@@ -20,6 +20,8 @@ module.exports = {
         'xanthous': '#FCBF49',
         // 'vanilla': '#EAE2B7',
         'bittersweet': '#F87666',
+        'celadon': '#B3EFB2',
+        'alice-blue': '#E8F1F2',
       },
     },
   },
