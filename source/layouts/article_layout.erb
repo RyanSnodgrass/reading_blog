@@ -9,7 +9,7 @@
           <%= image_tag current_article.data.cover_image.to_s, class: "max-w-72 md:w-52" %>
         </div>
         <div class="">
-          <h1 class="text-4xl font-sans font-bold dark:text-white pt-8 md:pt-1">
+          <h1 class="text-4xl font-sans font-bold pt-8 md:pt-1">
             <%= current_article.title %>
           </h1>
           <p class="text-lg font-sans font-light pt-4 text-gray-600">
@@ -41,7 +41,7 @@
   </div>
   <div class="pt-7 pb-5 max-w-2xl px-6 py-6 mx-auto">
     <div class="border-t border-gray-800"></div>
-    <h1 class="text-4xl font-sans font-bold dark:text-white pt-8">
+    <h1 class="text-4xl font-sans font-bold pt-8">
       Latest Articles
     </h1>
     <% blog.articles[0...5].each do |article| %>
