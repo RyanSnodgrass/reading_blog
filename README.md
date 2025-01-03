@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c848276-8888-44e7-8e46-216348cb251b/deploy-status)](https://app.netlify.com/sites/ubiquitous-marzipan-0c034e/deploys)
 
 https://tailwindcss.com/docs/installation
 https://www.donnfelker.com/tailwind-css-with-middleman/
