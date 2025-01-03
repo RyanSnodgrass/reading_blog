@@ -13,7 +13,7 @@
     @apply px-3 py-1 text-xs font-medium text-center text-white bg-gray-500 rounded-full;
   }
   .link-hover-color {
-    @apply text-xanthous;
+    @apply text-neon-blue;
   }
   /* define a common full page width */
   .common-width {
