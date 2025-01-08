@@ -4,6 +4,7 @@ title: multiple-secrets-in-docker-build
 date: 2024-12-19 17:58 UTC
 title:  "Multiple Secrets in a Docker Build"
 cover_image: secrets_image.jpeg
+excerpt: Need more than one secret baked into your initial Docker image?
 estimated_time: 3 min
 tags: 
   - Code
