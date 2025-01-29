@@ -5,8 +5,9 @@ date: 2025-01-28 18:33 UTC
 cover_image: world_war_z.jpg
 author: Max Brooks
 estimated_time: 3 min
+publish_date: 2006
 excerpt: A realistic vision of a zombie apocalypse
-tags: 
+tags:
   - Review
   - American
   - Fiction
