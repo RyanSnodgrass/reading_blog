@@ -39,7 +39,7 @@
     @apply text-2xl mt-12 font-sans;
   }
   .article-blog-post p {
-    @apply article-text  mt-5;
+    @apply article-text  mt-5 indent-12;
   }
   /* default 18px
   md at 20px */
