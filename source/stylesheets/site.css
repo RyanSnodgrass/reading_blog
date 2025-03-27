@@ -12,6 +12,9 @@
   .tag-pill {
     @apply px-3 py-1 text-xs font-medium text-center text-white bg-gray-500 rounded-full;
   }
+  .link-color {
+    @apply text-neon-blue;
+  }
   .link-hover-color {
     @apply text-neon-blue;
   }
@@ -61,5 +64,14 @@
   }
   .article-cover-pic {
     @apply w-36;
+  }
+  .article-card {
+    @apply flex flex-col md:flex-row items-center bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 mt-4 focus:ring-4 focus:outline-none focus:ring-gray-300;
+  }
+  .article-card-title {
+    @apply mb-2 text-2xl font-bold tracking-tight link-color;
+  }
+  .article-card:hover .article-card-title{
+    @apply underline;
   }
 }

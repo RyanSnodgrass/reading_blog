@@ -3,6 +3,7 @@
 title: Dune
 date: 2025-03-03 16:33 UTC
 excerpt: Desert Search For Techno Jesus
+publish_date: 1965
 cover_image: Dune_cover.jpg
 author: Frank Herbert
 estimated_time: 4 min
