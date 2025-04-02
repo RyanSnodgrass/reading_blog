@@ -28,12 +28,11 @@ The book opens with our heroine 17 year old Emily St Aubert and her parents trav
 
 You could almost see God and Garden of Eden metaphors in her father and their homely mansion in France. But there’s no depth to it, I think it was just made to emphasize how great her life was before the events of the book.
 
-
 The beginning is almost dreamlike. The trip through the French alps is overflowing with flowery descriptions. Radcliffe had a real talent for describing awe inspiring mountain landscapes. She revels in her own descriptions and paints with a zealous brush. Which is a fitting metaphor because according to the book’s introduction, Radcliffe had never travelled to the novel’s setting and instead modeled much of her landscape impressions on the famous landscape paintings of the day. 
 
 > _Emily, often as she travelled among the clouds, watched in silent awe their billowy surges rolling below; sometimes, wholly closing upon the scene, they appeared like a world of chaos, and, at others, spreading thinly, they opened and admitted partial catches of the landscape - the torrent, whose astounding roar had never failed, tumbling down the rocky chasm, huge cliffs white with snow, or the dark summits of the pine forests, that stretched mid-way down the mountains p.165_
 
-The problem is the first third of the book is filled with these endless pages of landscape descriptions. The trip is frequently paused to view the latest Kodak moment. We get some payoff with this later on the march to Venice.
+The problem is the first third is filled with these endless pages of landscape descriptions. The trip is frequently paused to view the latest Kodak moment. We get some payoff with this later on the march to Venice.
 
 Along the way they meet a kind and handsome young gentleman Monsieur Valancourt who happens to be going the same direction they do. Valancourt becomes Emily’s love interest. Eventually Valancourt has to part, and Emily’s mother and father both die of illness. Leaving Emily  in the hands of her uncaring Aunt.
 
@@ -47,13 +46,13 @@ Emily is essentially a blank slate. Maybe this book was popular because Emily wa
 
 Eventually Madame Cheron meets and then marries the book’s villain- the evil Count Montoni.
 
-Emily’s inheritance is somehow tied up in her aunt so Montoni marries her aunt purely for greed. He is a classic Gothic villain. But he lacks any aspect except his brooding anger and implied threats of violence. He spends his nights out gambling away his money and his friends are horrible people. A typical interaction between him and Emily is a wagging finger and his favorite vague threat: how much she won’t like what happens if she angers him:
+While Montoni is a classic Gothic villian, he lacks any other aspects except his brooding anger and implied threats of violence. Emily’s inheritance is somehow tied up in her aunt so Montoni marries purely for greed. He spends his nights out gambling away his money and his friends are horrible people. A typical interaction between him and Emily is a wagging finger and his favorite vague threat: how much she won’t like what happens if she angers him:
 
 > _[Montoni:] “I now remind you, for the last time, that you are a stranger, in a foreign country, and that it is in your interest to make me your friend; you know the means; if you compel me to become your enemy - I will venture to tell you, that the punishment shall exceed your expectation. You may know I am not to be trifled with.” p.217_
 
 # Venice
 
-After their wedding Montoni whisks the women away to his estate in Venice. When you contrast this trip to the one earlier, we finally get something out of  all the endless descriptions from before. Whereas earlier Emily and company had a wonderful time taking in the sights of their Alpine trip. Now though, Montoni does not share their love of beauty or art and the party takes no scenic detours. When they do catch a glimpse of the mountains they are appropriately craggy and gloomy. And the only time they stop is when their path crosses an Italian war force, a scary moment reminding Emily of the uncertainty of a war torn region.
+After their wedding Montoni whisks the women away to his estate in Venice. When you contrast this trip to the one earlier, we finally get something out of all the endless descriptions from before. Whereas earlier Emily and company had a wonderful time taking in the sights of their Alpine trip. Now though, Montoni does not share their love of beauty or art and the party takes no scenic detours. When they do catch a glimpse of the mountains they are appropriately craggy and gloomy. And the only time they stop is when their path crosses an Italian war force, a scary moment reminding Emily of the uncertainty of a war torn region.
 
 Radcliffe had never been to Italy and largely used travel books for her research. This resulted in a lot of anachronisms. That said, Venice was described lively and the terrible people Montoni associated with brought some degree of interest. I wouldn’t say it started being good, but it at least stopped being bad. 
 
