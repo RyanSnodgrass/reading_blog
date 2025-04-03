@@ -3,7 +3,7 @@
 title: The Mysteries Of Udolpho
 date: 2025-04-02 02:08 UTC
 author: Anne Radcliffe
-estimated_time: 12 min
+estimated_time: 13 min
 publish_date: 1794
 published: false
 tags: 
@@ -17,11 +17,11 @@ cover_image: the-mysteries-of-udolpho.jpg
 ---
 
 
-_The Mysteries of Udolpho_ is not Gothic fiction, Gothic fiction *is* _The Mysteries of Udolpho_. This best selling book popularized all the elements we associate with that genre. A prone to fainting heroine, a dastardly villain holding her against her will, crumbling castles, terrifying supernatural mysteries, and windswept gloomy landscapes. Those who want to understand the history of horror, Gothic novels, or even Jane Austen should read this book. In fact, I read this in preparation for Udolpho’s future parody - _Northanger Abbey_. But should you?
+_The Mysteries of Udolpho_ is not Gothic fiction, Gothic fiction *is* _The Mysteries of Udolpho_. This best selling book popularized all the elements we associate with that genre. A prone to fainting heroine, a dastardly villain holding her against her will, crumbling castles, terrifying supernatural mysteries, and windswept gloomy landscapes. Those who want to understand the history of horror, Gothic novels, or even Jane Austen should read this book. In fact, I read this in preparation for _Udolpho_’s future parody - _Northanger Abbey_. But should you?
 
 [No. No you shouldn't.](/images/absolutely-not.gif)
 
-The only people who should read this are the historically curious. Sickos like me. Udolpho is way too long at nearly 700 pages of drudgery. The descriptions are never ending, and the plot doesn’t even start until a third of the way in. Hell, the titular castle isn’t even mentioned until after 200 pages! Yet, it was massively popular in its day and inspired many writers like Edgar Alan Poe. So what went right back then, what went wrong for us today? There’s a lot to talk about so grab a coffee and get comfy. This is gonna be a long one.
+The only people who should read this are the historically curious. Sickos like me. _Udolpho_ is way too long at nearly 700 pages of drudgery. The descriptions are never ending, and the plot doesn’t even start until a third of the way in. Hell, the titular castle isn’t even mentioned until after 200 pages! Yet, it was massively popular in its day and inspired many writers like Edgar Alan Poe. So what went right back then, what went wrong for us today? There’s a lot to talk about so grab a coffee and get comfy. This is gonna be a long one.
 
 # France
 
@@ -49,7 +49,7 @@ Emily is essentially a blank slate. Maybe this book was popular because Emily wa
 
 Eventually Madame Cheron meets and then marries the book’s villain- the evil Count Montoni.
 
-While Montoni is a classic Gothic villian, he lacks any aspects other than his brooding anger and implied threats of violence. Emily’s inheritance is somehow tied up in her aunt so Montoni marries purely for greed. He spends his nights out gambling away his money and his friends are horrible people. A typical interaction between him and Emily is a wagging finger and his favorite vague threat: how much she won’t like what happens if she angers him:
+While Montoni is a classic Gothic villain, he lacks any aspects other than his brooding anger and implied threats of violence. Emily’s inheritance is somehow tied up in her aunt so Montoni marries purely for greed. He spends his nights out gambling away his money and his friends are horrible people. A typical interaction between him and Emily is a wagging finger and his favorite vague threat: how much she won’t like what happens if she angers him:
 
 > _[Montoni:] “I now remind you, for the last time, that you are a stranger, in a foreign country, and that it is in your interest to make me your friend; you know the means; if you compel me to become your enemy - I will venture to tell you, that the punishment shall exceed your expectation. You may know I am not to be trifled with.” p.217_
 
@@ -93,6 +93,6 @@ Some other things happen that shed light on her father's hidden past. Finally, a
 
 Radcliffe really needed an editor to cut the excessive descriptions in the beginning and give Emily more agency. At one point Montoni locks her in another room. There is a brawl amongst Montoni’s men and in the chaos Emily breaks free. But she doesn’t do anything. She wanders the halls and does fuck all before finding her room and sitting down.
 
-I want to read all of Jane Austin’s novels before I die (she only wrote 6.) So far I’ve read Persuasion and Mansfield Park. I mentioned in [my review of _The Monk_](/the-monk.html) that I’m getting familiar with the Gothic genre in preparation for Jane Austen’s _Northanger Abbey_. That book is a parody of Gothic novels and _The Mysteries of Udolpho_ is specifically called out by one of the characters as a “horrid little book.”
+I want to read all of Jane Austin’s novels before I die (she only wrote 6.) So far I’ve read _Persuasion_ and _Mansfield Park_. I mentioned in [my review of _The Monk_](/the-monk.html) that I’m getting familiar with the Gothic genre in preparation for _Northanger Abbey_. That book is a parody of Gothic novels and _The Mysteries of Udolpho_ is specifically called out by one of the characters as a “horrid little book.”
 
-This book was a real challenge to get through and I hope to never read it again. Yet, here I am writing the longest review of my admittedly short blogging career. There's admittedly more to this book than just bad pacing. Hopefully I never write another review as long as this. If you’re still here I want to thank you for sticking around. I just had a lot on my mind and wanted to get my frustrations out on this book. Thank you for listening to me rant.
+This book was a real challenge to get through and I hope to never read it again. Yet, here I am writing the longest review of my short blogging career. There's admittedly more to this book than first impressions. I think I appreciate it more now after writing about it. Hopefully I never write another review as long as this. If you’re still here I want to thank you for sticking around.
