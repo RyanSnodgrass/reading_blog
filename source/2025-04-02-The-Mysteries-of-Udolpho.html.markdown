@@ -12,7 +12,7 @@ tags:
   - English
   - Fiction
   - Reading
-excerpt: Insofar snare decieve contradict ideal sexuality love love.
+excerpt: The archetypal Gothic novel is a challenging slog for even the most devoted fans
 cover_image: the-mysteries-of-udolpho.jpg
 ---
 
