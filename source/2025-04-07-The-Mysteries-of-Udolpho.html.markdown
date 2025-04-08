@@ -101,6 +101,8 @@ Some other things happen that shed light on her father's hidden past. Finally, a
 
 Radcliffe really needed an editor to cut the excessive descriptions in the beginning and give Emily more agency. At one point Montoni locks her in a side room. There is a brawl amongst Montoni’s men and in the chaos Emily breaks free. But she doesn’t do anything, she wanders the halls and does fuck all before finding her room and sitting down.
 
+![enough with the landscape descriptions](overwriting-udolpho-meme.jpg)
+
 I want to read all of Jane Austin’s novels before I die (she only wrote 6.) So far I’ve read _Persuasion_ and _Mansfield Park_. I mentioned in [my review of _The Monk_](/the-monk.html) that I’m getting familiar with the Gothic genre in preparation for _Northanger Abbey_. That book is a parody of Gothic novels and _The Mysteries of Udolpho_ is specifically called out by one of the characters as a “horrid little book.”
 
 This book was a real challenge to get through and I hope to never read it again. Yet, here I am writing the longest review of my short blogging career. There's admittedly more to this book than first impressions and perhaps I appreciate it more now after writing about it. Hopefully I never write another review as long as this. If you’re still here I want to thank you for sticking around.
