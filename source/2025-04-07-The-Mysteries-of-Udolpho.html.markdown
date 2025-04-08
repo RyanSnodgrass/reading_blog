@@ -1,7 +1,7 @@
 ---
 
 title: The Mysteries Of Udolpho
-date: 2025-04-02 02:08 UTC
+date: 2025-04-07 02:08 UTC
 author: Anne Radcliffe
 estimated_time: 13 min
 publish_date: 1794
