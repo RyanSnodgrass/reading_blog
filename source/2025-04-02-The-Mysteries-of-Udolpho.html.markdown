@@ -12,16 +12,16 @@ tags:
   - English
   - Fiction
   - Reading
-excerpt: The archetypal Gothic novel is a challenging slog for even the most devoted fans
+excerpt: The archetypal Gothic novel is a challenge for even the most dedicated readers
 cover_image: the-mysteries-of-udolpho.jpg
 ---
 
 
-_The Mysteries of Udolpho_ is not Gothic fiction, Gothic fiction *is* _The Mysteries of Udolpho_. This best selling book popularized all the elements we associate with that genre. A prone to fainting heroine, a dastardly villain holding her against her will, crumbling castles, terrifying supernatural mysteries, and windswept gloomy landscapes. Those who want to understand the history of horror, Gothic novels, or even Jane Austen should read this book. In fact, I read this in preparation for _Udolpho_’s future parody - _Northanger Abbey_. But should you?
+_The Mysteries of Udolpho_ is not Gothic fiction, Gothic fiction is _The Mysteries of Udolpho_. This best selling book popularized all the elements we associate with that genre. A prone to fainting heroine, a dastardly villain holding her against her will, crumbling castles, terrifying supernatural mysteries, and windswept gloomy landscapes. Those who want to understand the history of horror, Gothic novels, or even Jane Austen should read this book. In fact, I read this in preparation for _Udolpho_’s future parody - _Northanger Abbey_. But should you?
 
 [No. No you shouldn't.](/images/absolutely-not.gif)
 
-The only people who should read this are the historically curious. Sickos like me. _Udolpho_ is way too long at nearly 700 pages of drudgery. The descriptions are never ending, and the plot doesn’t even start until a third of the way in. Hell, the titular castle isn’t even mentioned until after 200 pages! Yet, it was massively popular in its day and inspired many writers like Edgar Alan Poe. So what went right back then, what went wrong for us today? There’s a lot to talk about so grab a coffee and get comfy. This is gonna be a long one.
+The only people who should read this are the historically curious- sickos like me. _Udolpho_ is way too long at nearly 700 pages. The descriptions are never ending and the plot doesn’t even start until a third of the way in. Hell, the titular castle isn’t even mentioned until after 200 pages! Yet, it was massively popular in its day and inspired many writers like Edgar Alan Poe. So what went right back then, what went wrong for us today? There’s a lot to talk about so grab a coffee and get comfy. This is gonna be a long one.
 
 # France
 
@@ -30,6 +30,8 @@ The book opens with our heroine 17 year old Emily St Aubert and her parents trav
 > _He raised his eyes to heaven, as if in prayer, and then in a firmer tone, and with a look in which the tenderness of the father was dignified by the pious solemnity of the saint. p.75_
 
 You could almost see God and Garden of Eden metaphors in her father and their homely mansion in France. But there’s no depth to it, I think it was just made to emphasize how great her life was before the events of the book.
+
+![Salvator Rosa Rocky Landscape With Fishermen Hauling Their Nets](salvator-rosa-rocky-landscape-with-fishermen-hauling-their-nets.jpg)
 
 The beginning is almost dreamlike. The trip through the French alps is overflowing with flowery descriptions. Radcliffe had a real talent for describing awe inspiring mountain landscapes. She revels in her own descriptions and paints with a zealous brush. Which is a fitting metaphor because according to the book’s introduction, Radcliffe had never travelled to the novel’s setting and instead modeled much of her landscape impressions on the famous landscape paintings of the day.
 
@@ -47,6 +49,8 @@ Emily herself isn’t much of a character either. She’s described in the book 
 
 Emily is essentially a blank slate. Maybe this book was popular because Emily was easy for the reader to slip into, similar to a silent protagonist in the video games of today.
 
+![Salvator Rosa Rocky Landscape With Banditti](salvator-rosa-rocky-landscape-with-banditti.jpg)
+
 Eventually Madame Cheron meets and then marries the book’s villain- the evil Count Montoni.
 
 While Montoni is a classic Gothic villain, he lacks any aspects other than his brooding anger and implied threats of violence. Emily’s inheritance is somehow tied up in her aunt so Montoni marries purely for greed. He spends his nights out gambling away his money and his friends are horrible people. A typical interaction between him and Emily is a wagging finger and his favorite vague threat: how much she won’t like what happens if she angers him:
@@ -58,6 +62,8 @@ While Montoni is a classic Gothic villain, he lacks any aspects other than his b
 After their wedding Montoni whisks the women away to his estate in Venice. When you contrast this trip to the one earlier, we finally get something out of all the endless descriptions from before. Earlier Emily and company had a wonderful time taking in the sights of their Alpine trip. Now though, Montoni does not share their love of beauty or art and the party takes no scenic detours. When they do catch a glimpse of the mountains they are appropriately craggy and gloomy. And the only time they stop is when their path crosses an Italian war force, a scary moment reminding Emily of the uncertainty of a war torn region.
 
 Radcliffe had never been to Italy and largely used travel books for her research. This resulted in a lot of anachronisms. That said, Venice was described lively and the terrible people Montoni associated with brought some degree of interest. I wouldn’t say it started being good, but it at least stopped being bad.
+
+![Salvator Rosa Landscape With St Jerome beneath a Craggy Rock](salvator-rosa-mountainous-landscape-with-st-jerome-beneath-a-craggy-rock.jpg)
 
 Montoni’s friends give off so many red flags. One of Montoni’s favorites, Orsini, reminds me of Joe Pesci’s character in Goodfellas. Short tempered and easily offended, he actually hires an assassin to murder a Venetian nobleman over an insult. Montoni hides Orsini from the Venetian authorities. In this way, Montoni doesn’t have to be directly violent to be intimidating. His history, company, and attitude make his threats too plausible to ignore.
 
@@ -75,6 +81,8 @@ The first sighting of Udolpho (finally by page 226!) occurs during the last rays
 
 Castle Udolpho is large, gloomy, and crumbling. Entire wings are derelict. Emily cannot feel safe in the castle at any time because in her room is a door that leads to a mysterious spiral staircase that locks on the outside. She cannot prevent someone from entering by that staircase. Where do the stairs go? Another mystery because Emily is too scared to explore it.
 
+![Salvator Rosa Landscape With Herdsmen and Cattle](salvator-rosa-rocky-landscape-with-herdsmen-and-cattle.jpg)
+
 Count Moreno enters through that door late at night in the best scene of the book. Turns out Moreno is secretly broke and when Montoni found out, he cancelled the wedding and rushed everyone to his castle to escape the Venetian authorities. Moreno is still madly in love with Emily (and her money.) He has brought a couple of ruffians with him to kidnap her. Again, Emily does nothing and has to be rescued by Montoni. A fight breaks out and Montoni and Moreno duel. Montoni wins the upper hand complete with the cliched raised chin by the victor’s sword tip.
 
 Moreno is let go and Emily explores the castle. She finds a mysterious, possibly supernatural apparition that turns out to be a captured prisoner- Monsieur Du Pont. Du Pont is actually from Emily’s home town (he was the one that left the poems in the fishing hut, another mystery resolved) and has a secret crush on her. But Emily still loves Valancourt so she turns him down. Meanwhile, Emily is getting the suspicion that Montoni is secretly broke and that he’s raiding neighboring towns and villages as a banditti captain. Montoni thinks Madame Cheron attempted to poison him and has her imprisoned in a remote part of the castle where she languishes and dies.
@@ -91,8 +99,8 @@ Some other things happen that shed light on her father's hidden past. Finally, a
 
 # Conclusion
 
-Radcliffe really needed an editor to cut the excessive descriptions in the beginning and give Emily more agency. At one point Montoni locks her in another room. There is a brawl amongst Montoni’s men and in the chaos Emily breaks free. But she doesn’t do anything. She wanders the halls and does fuck all before finding her room and sitting down.
+Radcliffe really needed an editor to cut the excessive descriptions in the beginning and give Emily more agency. At one point Montoni locks her in a side room. There is a brawl amongst Montoni’s men and in the chaos Emily breaks free. But she doesn’t do anything, she wanders the halls and does fuck all before finding her room and sitting down.
 
 I want to read all of Jane Austin’s novels before I die (she only wrote 6.) So far I’ve read _Persuasion_ and _Mansfield Park_. I mentioned in [my review of _The Monk_](/the-monk.html) that I’m getting familiar with the Gothic genre in preparation for _Northanger Abbey_. That book is a parody of Gothic novels and _The Mysteries of Udolpho_ is specifically called out by one of the characters as a “horrid little book.”
 
-This book was a real challenge to get through and I hope to never read it again. Yet, here I am writing the longest review of my short blogging career. There's admittedly more to this book than first impressions. I think I appreciate it more now after writing about it. Hopefully I never write another review as long as this. If you’re still here I want to thank you for sticking around.
+This book was a real challenge to get through and I hope to never read it again. Yet, here I am writing the longest review of my short blogging career. There's admittedly more to this book than first impressions and perhaps I appreciate it more now after writing about it. Hopefully I never write another review as long as this. If you’re still here I want to thank you for sticking around.
