@@ -43,6 +43,10 @@
   }
   .article-blog-post p {
     @apply article-text  mt-5 indent-12;
+
+    img {
+     @apply m-auto;
+    }
   }
   /* default 18px
   md at 20px */
