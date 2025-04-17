@@ -6,6 +6,10 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="color-scheme" content="light dark" />
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="manifest" href="images/site.webmanifest">
     <title>Ryan's Blog<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
