@@ -2,7 +2,7 @@
 
 title: World War Z
 date: 2025-01-28 18:33 UTC
-cover_image: world_war_z.jpg
+cover_image: world_war_z/world_war_z.jpg
 author: Max Brooks
 estimated_time: 3 min
 publish_date: 2006

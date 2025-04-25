@@ -7,7 +7,7 @@ tags:
 estimated_time: 1 min
 author: Ryan Snodgrass
 excerpt: Am I the only one that does this?
-cover_image: MyBookHandlingIdiosyncrasies.jpg
+cover_image: on_book_conditions/MyBookHandlingIdiosyncrasies.jpg
 
 ---
 

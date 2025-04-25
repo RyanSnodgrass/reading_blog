@@ -13,13 +13,13 @@ tags:
   - Fiction
   - Reading
 excerpt: The archetypal Gothic novel is a challenge for even the most dedicated readers
-cover_image: the-mysteries-of-udolpho.jpg
+cover_image: The_mysteries_of_udolpho/the-mysteries-of-udolpho.jpg
 ---
 
 
 _The Mysteries of Udolpho_ is not Gothic fiction, Gothic fiction is _The Mysteries of Udolpho_. This best selling book popularized all the elements we associate with that genre. A prone to fainting heroine, a dastardly villain holding her against her will, crumbling castles, terrifying supernatural mysteries, and windswept gloomy landscapes. Those who want to understand the history of horror, Gothic novels, or even Jane Austen should read this book. In fact, I read this in preparation for _Udolpho_’s future parody - _Northanger Abbey_. But should you?
 
-[No. No you shouldn't.](/images/absolutely-not.gif)
+[No. No you shouldn't.](/images/The_mysteries_of_udolpho/absolutely-not.gif)
 
 The only people who should read this are the historically curious- sickos like me. _Udolpho_ is way too long at nearly 700 pages. The descriptions are never ending and the plot doesn’t even start until a third of the way in. Hell, the titular castle isn’t even mentioned until after 200 pages! Yet, it was massively popular in its day and inspired many writers like Edgar Alan Poe. So what went right back then, what went wrong for us today? There’s a lot to talk about so grab a coffee and get comfy. This is gonna be a long one.
 
@@ -31,7 +31,7 @@ The book opens with our heroine 17 year old Emily St Aubert and her parents trav
 
 You could almost see God and Garden of Eden metaphors in her father and their homely mansion in France. But there’s no depth to it, I think it was just made to emphasize how great her life was before the events of the book.
 
-![Salvator Rosa Rocky Landscape With Fishermen Hauling Their Nets](salvator-rosa-rocky-landscape-with-fishermen-hauling-their-nets.jpg)
+![Salvator Rosa Rocky Landscape With Fishermen Hauling Their Nets](The_mysteries_of_udolpho/salvator-rosa-rocky-landscape-with-fishermen-hauling-their-nets.jpg)
 
 The beginning is almost dreamlike. The trip through the French alps is overflowing with flowery descriptions. Radcliffe had a real talent for describing awe inspiring mountain landscapes. She revels in her own descriptions and paints with a zealous brush. Which is a fitting metaphor because according to the book’s introduction, Radcliffe had never travelled to the novel’s setting and instead modeled much of her landscape impressions on the famous landscape paintings of the day.
 
@@ -49,7 +49,7 @@ Emily herself isn’t much of a character either. She’s described in the book 
 
 Emily is essentially a blank slate. Maybe this book was popular because Emily was easy for the reader to slip into, similar to a silent protagonist in the video games of today.
 
-![Salvator Rosa Rocky Landscape With Banditti](salvator-rosa-rocky-landscape-with-banditti.jpg)
+![Salvator Rosa Rocky Landscape With Banditti](The_mysteries_of_udolpho/salvator-rosa-rocky-landscape-with-banditti.jpg)
 
 Eventually Madame Cheron meets and then marries the book’s villain- the evil Count Montoni.
 
@@ -63,7 +63,7 @@ After their wedding Montoni whisks the women away to his estate in Venice. When 
 
 Radcliffe had never been to Italy and largely used travel books for her research. This resulted in a lot of anachronisms. That said, Venice was described lively and the terrible people Montoni associated with brought some degree of interest. I wouldn’t say it started being good, but it at least stopped being bad.
 
-![Salvator Rosa Landscape With St Jerome beneath a Craggy Rock](salvator-rosa-mountainous-landscape-with-st-jerome-beneath-a-craggy-rock.jpg)
+![Salvator Rosa Landscape With St Jerome beneath a Craggy Rock](The_mysteries_of_udolpho/salvator-rosa-mountainous-landscape-with-st-jerome-beneath-a-craggy-rock.jpg)
 
 Montoni’s friends give off so many red flags. One of Montoni’s favorites, Orsini, reminds me of Joe Pesci’s character in Goodfellas. Short tempered and easily offended, he actually hires an assassin to murder a Venetian nobleman over an insult. Montoni hides Orsini from the Venetian authorities. In this way, Montoni doesn’t have to be directly violent to be intimidating. His history, company, and attitude make his threats too plausible to ignore.
 
@@ -81,7 +81,7 @@ The first sighting of Udolpho (finally by page 226!) occurs during the last rays
 
 Castle Udolpho is large, gloomy, and crumbling. Entire wings are derelict. Emily cannot feel safe in the castle at any time because in her room is a door that leads to a mysterious spiral staircase that locks on the outside. She cannot prevent someone from entering by that staircase. Where do the stairs go? Another mystery because Emily is too scared to explore it.
 
-![Salvator Rosa Landscape With Herdsmen and Cattle](salvator-rosa-rocky-landscape-with-herdsmen-and-cattle.jpg)
+![Salvator Rosa Landscape With Herdsmen and Cattle](The_mysteries_of_udolpho/salvator-rosa-rocky-landscape-with-herdsmen-and-cattle.jpg)
 
 Count Moreno enters through that door late at night in the best scene of the book. Turns out Moreno is secretly broke and when Montoni found out, he cancelled the wedding and rushed everyone to his castle to escape the Venetian authorities. Moreno is still madly in love with Emily (and her money.) He has brought a couple of ruffians with him to kidnap her. Again, Emily does nothing and has to be rescued by Montoni. A fight breaks out and Montoni and Moreno duel. Montoni wins the upper hand complete with the cliched raised chin by the victor’s sword tip.
 
@@ -99,7 +99,7 @@ Some other things happen that shed light on her father's hidden past. Finally, a
 
 # Conclusion
 
-![enough with the landscape descriptions](overwriting-udolpho-meme.jpg)
+![enough with the landscape descriptions](The_mysteries_of_udolpho/overwriting-udolpho-meme.jpg)
 
 Radcliffe really needed an editor to cut the excessive descriptions in the beginning and give Emily more agency. At one point Montoni locks her in a side room. There is a brawl amongst Montoni’s men and in the chaos Emily breaks free. But she doesn’t do anything, she wanders the halls and does fuck all before finding her room and sitting down.
 

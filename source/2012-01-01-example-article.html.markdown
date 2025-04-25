@@ -6,7 +6,7 @@ published: false
 tags:
   - Reading
 excerpt: Horror pinnacle overcome spirit merciful derive decrepit endless
-cover_image: ExampleArticle.jpg
+cover_image: example_article/ExampleArticle.jpg
 
 ---
 
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit facilisis, vitae phasellu
 
 This generator uses a dictionary of Latin words to construct passages of Lorem Ipsum text that meet your desired length. The sentence and paragraph durations and punctuation dispersal are calculated using Gaussian distribution, based on statistical analysis of real world texts. This ensures that the generated Lorem Ipsum text is unique, free of repetition and also resembles readable text as much as possible.
 
-![Horizontal oriented picture](golfing-with-baby.jpeg)
+![Horizontal oriented picture](example_article/golfing-with-baby.jpeg)
 
 ```ruby
 while i < 100 do |i|
@@ -40,7 +40,7 @@ end
 
 ## Heading 2
 
-![Horizontal oriented picture](golfing-with-baby.jpeg)
+![Horizontal oriented picture](example_article/golfing-with-baby.jpeg)
 
 
 
@@ -56,4 +56,4 @@ export function veryLongFunctionNameThatIsExactly72characterslonger() {
 
 But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee
 
-![vertical oriented picture](overwriting-udolpho-meme.jpg)
+![vertical oriented picture](The_mysteries_of_udolpho/overwriting-udolpho-meme.jpg)
