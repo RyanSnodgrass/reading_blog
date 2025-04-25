@@ -12,7 +12,7 @@ author: Matthew Lewis
 estimated_time: 6.5 min
 publish_date: 1796
 excerpt: This book was so lewd, profane, and obscene it was considered criminal. Is it today?
-cover_image: TheMonk.jpg
+cover_image: the_monk/TheMonk.jpg
 
 ---
 
@@ -49,7 +49,7 @@ I also liked Lorenzo, the main character of the first third. Yet I couldn’t te
 
 Lorenzo hangs in the back of the crowd with his friend Don Christoval. They meet a pair of women: one the beautiful Antonia and her annoying, older, and uglier aunt Leonella. Lorenzo barters his buddy to fall on the grenade, as they say, to chat up the aunt so Lorenzo can flirt with Antonia. 
 
-![Bro Code](bro_code.jpg)
+![Bro Code](the_monk/bro_code.jpg)
 
 After the sermon the women bid them goodbye. Antonia is not quite sure what to think of Lorenzo yet, but Leonella is absolutely convinced that the friend distracting her is going to be her husband. This joke is repeated later in the book to pretty great effect.
 
@@ -65,7 +65,7 @@ The next scene has Ambrosio in his personal cell in the Abbey mulling over his s
 
 I have to point out that he’s an orphan with no knowledge of his family. He has no mother or sisters and he was raised since infancy in the Abbey surrounded by men. On top of all this, he’s in a lifelong celibate vow. Mother Mary is the only woman he’s allowed to love. His agape has devolved into sexual love.
 
-![Mary is Moe](travis_moe_gate_of_dawn.jpg)
+![Mary is Moe](the_monk/travis_moe_gate_of_dawn.jpg)
 
 Ambrosio doesn’t have many friends at the Abbey. The only one he does, Rosario, interrupts his reverie with a terrible secret. Rosario is a newly ordained monk in the last year or two and takes his vows so seriously he never reveals his face.  The shocking twist comes when Rosario reveals himself not to be a man, but a woman! Matilda is her name and she has loved Ambrosio from afar like so many women in Madrid. But Matilda took it further. To get close to him she disguised herself as a man and joined the convent. But that still wasn’t enough. She needed him. Taking off her mask, she looks exactly like the painting! She had the painting commissioned and gifted to the Abbey as an anonymous gift to Ambrosio. 
 
@@ -73,7 +73,7 @@ Here we have right before Ambrosio- his obsession made flesh. The temptation wou
 
 Preventing further spoilers, the next third of the novel takes an out of nowhere pivot where we recount the tale of Don Raymond and his supernatural adventures to wed Lorenzo’s sister before she became a nun. The problem is we had only just learned of this character late in the previous chapter and we then spend the next three in his voice. But it’s actually engaging and well told, just jarring to take such an abrupt narrative voice shift. Both plots intertwine in the latter third before a climatic scene involving an angry mob and a deal with the devil.
 
-![Fonthill Abbey](Fonthill_abbey.jpg)
+![Fonthill Abbey](the_monk/Fonthill_abbey.jpg)
 
 Mixed in there is a standout scene where a demon is summoned in the Abbey’s crypts. It was full of that kind of classic horror imagery you find in 40s Universal horror movies. In the time when that was new. It had all the assurance of freshness without the weight of avoiding tropes or cliches. I love the halloween aesthetic so this scene was a real treat for me. 
 

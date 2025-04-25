@@ -4,7 +4,7 @@ title: Dune
 date: 2025-03-03 16:33 UTC
 excerpt: Desert Search For Techno Jesus
 publish_date: 1965
-cover_image: Dune_cover.jpg
+cover_image: dune/Dune_cover.jpg
 author: Frank Herbert
 estimated_time: 4 min
 tags:
@@ -27,7 +27,7 @@ The size and definition of their muscles was awe inspiring and terrifying.
 Sometimes harsh conditions breed strong populations.
 Similar to the desert planet natives at the center of Frank Herbert's masterpiece- Dune.
 
-![Do You Even Lift Bro?](lion_meme_v3.jpg)
+![Do You Even Lift Bro?](dune/lion_meme_v3.jpg)
 
 I've been wanting to re-read Dune for a couple years now.
 It's been in my top 5 list ever since I read it back in college.
