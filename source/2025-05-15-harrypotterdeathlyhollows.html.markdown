@@ -2,16 +2,16 @@
 
 title: Harry Potter and the Deathly Hollows
 date: 2025-05-15 00:39 UTC
-tags: 
-estimated_time: 13 min
+author: J.K. Rowling
+estimated_time: 4 min
 publish_date: 2007
 published: true
 tags: 
   - Review
-  - English
-  - Fiction
-  - Reading
   - Young Adult
+  - Fiction
+  - English
+  - Reading
   - Fantasy
 excerpt: This Goosebumps fan doesn't think Harry Potter is
 cover_image: harry_potter_deathly_hallows/harry_potter_deathly_hallows.jpg
@@ -37,7 +37,6 @@ Rawling has an ability to display an emotional intelligence I find rare in fanta
 
 Once the decision was made to kill off Mad Eye Moody, the top Auror, or wizard police, the collision course with Harry and the villain Voldemort seemed inevitable. Much of the first half of the book felt pre-ordained with 6 previous books of preamble. Of course the main cast drops out of school. Of course Snape, who murdered the last headmaster, is now the current head master. It felt like much of this seventh book, Deathly Hallows, had no other way to go. Rawling just had to not flub the landing. In fact, it seemed the only question she had to answer was the location of the remaining magical items needed to kill the villain. A question the characters spend a lot of time wrestling with.
 
-The pacing for the seventh book is all over the place. Rawling has spent 1000s of pages over six other books setting up the finale, probably pre knowing some things, and having to retcon others. And hoo boy, the retconning. The middle third of the book consists of our main cast wandering around the woods looking for these magical items, and you can almost hear Rawling spin her wheels through the pages as she herself doesn’t seem to know where they are. The characters will even comment on it when they complain that the late Dumbledore never transferred any other whereabout clues and in consequence they spend far too much time lost in the woods. Rather than set this up in previous books, Rawling has to resort to 3 new clues out of Dumbledore's will to guide the cast. These items aren't quite maguffins as they are each meaningful in character backstory or plot items from previous books so kudos to Rawling for that.
+The pacing for the seventh book is all over the place. Rawling has spent 1000s of pages over six other books setting up the finale, probably pre knowing some things, and having to retcon others. And hoo boy, the retconning. The middle third of the book consists of our main cast wandering around the woods looking for these magical items, and you can almost hear Rawling spin her wheels through the pages as she herself doesn’t seem to know where they are. The characters will even comment on it when they complain that the late Dumbledore never transferred any other whereabout clues and in consequence they spend far too much time lost in the woods. Rather than set this up in previous books, Rawling has to resort to 3 new clues out of Dumbledore's will to guide the cast. These items aren't quite MacGuffins as they are each meaningful in character backstory or plot items from previous books so kudos to Rawling for that.
 
 Even with the pacing issues, when this book hits, it really hits. At times I was glued to the page. Really, it’s an amazing series and if you haven’t read Harry Potter yet and you enjoy fantasy then you owe it to yourself to not miss out on one of the biggest cultural phenomena of our generation. And you know what, while Goosebumps will always have a special place in my heart, I think Harry Potter _is_ better.
-
