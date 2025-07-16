@@ -4,6 +4,6 @@ module.exports = {
   entry: './source/javascripts/index.js',
   output: {
     filename: 'site.js',
-    path: path.resolve(__dirname, 'source/javascripts'),
+    path: path.resolve(__dirname, 'dist/javascripts'),
   },
 };
