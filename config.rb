@@ -83,6 +83,11 @@ configure :build do
 
   # Minify Javascript on build
   # activate :minify_javascript
+  activate :external_pipeline,
+    name: :webpack,
+    command: 'npx webpack --mode="production"',
+    source: './dist/'
+
 end
 
 activate :external_pipeline,
