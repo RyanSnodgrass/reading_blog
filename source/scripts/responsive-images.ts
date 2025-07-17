@@ -2,8 +2,7 @@ const sharp = require('sharp');
 const fs = require('fs');
 const path = require('path');
 
-// export function* readAllFiles(dir: string): Generator<string> {
-function* readAllFiles(dir) {
+function* readAllFiles(dir: string): Generator<string> {
   const files = fs.readdirSync(dir, { withFileTypes: true });
 
   for (const file of files) {
@@ -22,4 +21,4 @@ for (const file of readAllFiles(directory)) {
   sharp(`${file}`)
     .resize(200, 100) // width, height
     .toFile(`${file}-small.jpg`);
-  };
+};

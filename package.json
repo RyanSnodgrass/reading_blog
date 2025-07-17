@@ -2,6 +2,8 @@
   "devDependencies": {
     "sharp": "^0.34.3",
     "tailwindcss": "^3.4.16",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
     "webpack": "^5.100.2",
     "webpack-cli": "^6.0.1"
   },
@@ -9,6 +11,6 @@
     "lodash": "^4.17.21"
   },
   "scripts": {
-    "sharpen": "node source/scripts/responsive-images.js"
+    "sharpen": "npx ts-node source/scripts/responsive-images.ts"
   }
 }
