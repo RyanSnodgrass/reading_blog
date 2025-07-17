@@ -1,9 +1,25 @@
 const sharp = require('sharp');
 const fs = require('fs');
-const directory = 'source/images/';
+const path = require('path');
 
-fs.readdirSync(directory).forEach(file => {
-  sharp(`${directory}/${file}`)
+// export function* readAllFiles(dir: string): Generator<string> {
+function* readAllFiles(dir) {
+  const files = fs.readdirSync(dir, { withFileTypes: true });
+
+  for (const file of files) {
+    if (file.isDirectory()) {
+      yield* readAllFiles(path.join(dir, file.name));
+    } else {
+      yield path.join(dir, file.name);
+    }
+  }
+}
+
+const directory = 'source/images/site/';
+
+for (const file of readAllFiles(directory)) {
+  console.log('hellow file:', file)
+  sharp(`${file}`)
     .resize(200, 100) // width, height
-    .toFile(`${directory}/${file}-small.jpg`);
-  });
+    .toFile(`${file}-small.jpg`);
+  };
