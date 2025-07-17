@@ -6,4 +6,7 @@ module.exports = {
     filename: 'site.js',
     path: path.resolve(__dirname, 'dist/javascripts'),
   },
+  externals: {
+    'sharp': 'commonjs sharp'
+  }
 };
