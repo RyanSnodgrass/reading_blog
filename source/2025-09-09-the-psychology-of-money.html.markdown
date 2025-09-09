@@ -8,9 +8,9 @@ publish_date: 2020
 published: true
 tags: 
   - Review
+  - Finance
   - Nonfiction
   - Reading
-  - Finance
 excerpt: The Psychology of Money
 cover_image: the_psychology_of_money/the_psychology_of_money_cover.jpg
 
