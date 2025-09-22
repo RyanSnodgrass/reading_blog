@@ -11,7 +11,7 @@ tags:
   - Finance
   - Nonfiction
   - Reading
-excerpt: The Psychology of Money
+excerpt: Financial stories
 cover_image: the_psychology_of_money/the_psychology_of_money_cover.jpg
 
 ---
