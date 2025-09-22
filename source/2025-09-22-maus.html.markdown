@@ -9,6 +9,7 @@ published: true
 tags: 
   - Review
   - Graphic Novel
+  - Nonfiction
   - Reading
 excerpt: Trauma and the long marks on us
 cover_image: maus/maus_cover.jpg
