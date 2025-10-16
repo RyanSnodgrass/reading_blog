@@ -12,10 +12,9 @@ tags:
   - English
   - Reading
   - A Song of Ice and Fire
-excerpt: The archetypal Gothic novel is a challenge for even the most dedicated readers
+excerpt: Martin's writing elevates an already highly regarded series
 cover_image: a_storm_of_swords/a_storm_of_swords_cover.jpg
 ---
-
 
 Like many, I loved HBO’s ground-breaking adaptation of _Game Of Thrones_.
 The show very closely follows the events of the books, almost one to one.
@@ -38,7 +37,7 @@ The extra cost was definitely worth it, the books have an amazing hand feel.
 They are thick and bend in such a nice way that they stay open on my current page.
 
 It comes in at an intimidating length, over 1100 pages.
-His writing is never hard though and I found it an easy read.
+His writing is never difficult though and I found it an easy read.
 He has a direct, no frills style.
 It’s never flowery, nor adjective heavy.
 The scenes get their atmosphere and color from the characters and things in them.
