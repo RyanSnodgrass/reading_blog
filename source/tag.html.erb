@@ -1,11 +1,6 @@
----
-pageable: true
-per_page: 12
----
 <div class="max-w-2xl pt-10 mx-auto px-6 pb-18">
-  <h2 class="text-4xl font-serif text-center">
-    <span class="text-7xl">B</span>OOK <span class="text-7xl">R</span>EVIEWS</h2>
+  <%= partial("tag_title.html", locals: { tagname: tagname }) %>
 </div>
 <div class="pt-6 pb-16">
-  <%= partial("scrolling_posts", locals: { blog_articles: blog.articles }) %>
+  <%= partial("scrolling_posts", locals: { blog_articles: page_articles }) %>
 </div>

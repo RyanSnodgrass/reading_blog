@@ -1,11 +1,15 @@
 <% content_tag :h2, class: "text-4xl font-serif text-center" do %>
-  <% tagname.split('').each do |char| %>
-    <% if char =~ /[A-Z]/ %>
-      <% content_tag :span, class: "text-7xl" do %>
-        <% char %>
-      <% end %>
+  <%# 1. Find every letter (upper or lower) with gsub /[A-Za-z]/ %>
+  <% content = tagname.gsub(/[A-Za-z]/) do |match| %>
+    <% if match =~ /[A-Z]/ %>
+      <%# It was already uppercase, so wrap it %>
+      <% content_tag(:span, match, class: "text-7xl") %>
     <% else %>
-      <%= char.upcase %>
+      <%# It was lowercase, so just capitalize it %>
+      <% match.upcase %>
     <% end %>
   <% end %>
+
+  <%# 2. Print the final, HTML-safe string %>
+  <%= content %>
 <% end %>
