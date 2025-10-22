@@ -72,6 +72,10 @@ helpers do
   def article_publish_date_shower(article)
     article.data.publish_date.present? ? "Published #{article.data.publish_date}" : ""
   end
+
+  def book_reviews
+    blog.articles.select { |a| ["Reading", "Review"].all? { |tag| a.tags.include?(tag) } }
+  end
 end
 
 # Build-specific configuration
