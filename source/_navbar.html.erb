@@ -8,7 +8,11 @@
         <a href="/about.html">About</a>
       </li> -->
       <li class=<%= current_page?("/tags/reading.html") ? "nav-link-active" : "nav-link" %>>
-        <%= link_to "Reading", tag_path("Reading") %>
+        <%= link_to "All Posts", tag_path("Reading") %>
+        <!-- <a href="<%= tag_path("Reading")%>">Reading</a> -->
+      </li>
+      <li class=<%= current_page?("/tags/reading.html") ? "nav-link-active" : "nav-link" %>>
+        <%= link_to "Book Reviews", tag_path("Reading") %>
         <!-- <a href="<%= tag_path("Reading")%>">Reading</a> -->
       </li>
       <li class=<%= current_page?("/tags/code.html") ? "nav-link-active" : "nav-link" %>>

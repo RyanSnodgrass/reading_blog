@@ -3,20 +3,6 @@ pageable: true
 per_page: 12
 ---
 <div class="max-w-2xl pt-6 mx-auto px-6 pb-16">
-  <h2 class="text-4xl mb-12 mt-4 font-serif text-center"><%= tagname %></h2>
-  <% if paginate && num_pages > 1 %>
-    <p>Page <%= page_number %> of <%= num_pages %></p>
-    <% if prev_page %>
-      <p><%= link_to 'Previous page', prev_page %></p>
-    <% end %>
-  <% end %>
-
-  <% page_articles.each_with_index do |article, i| %>
-    <%= partial("article_card", locals: { article: article }) %>
-  <% end %>
+  <h2 class="text-4xl mb-12 mt-4 font-serif text-center">Book Reviews</h2>
+  <%= partial("scrolling_posts", locals: { blog_articles: blog.articles }) %>
 </div>
-<% if paginate %>
-  <% if next_page %>
-    <p><%= link_to 'Next page', next_page %></p>
-  <% end %>
-<% end %>
