@@ -11,6 +11,7 @@ tags:
   - Fantasy
   - English
   - Reading
+  - Fiction
   - A Song of Ice and Fire
 excerpt: Martin's writing elevates an already highly regarded series
 cover_image: a_storm_of_swords/a_storm_of_swords_cover.jpg

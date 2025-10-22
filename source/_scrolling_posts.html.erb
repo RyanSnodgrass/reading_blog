@@ -1,0 +1,12 @@
+<% blog_articles.group_by {|a| a.date.year }.each do |year, articles| %>
+  <% if year != Time.zone.today.year %>
+    <div class="w-full sticky top-0 pb-8 pt-8 bg-stone-50">
+      <h2 class="text-4xl text-center"><%= year %></h2>
+    </div>
+  <% end %>
+  <div class="max-w-2xl mx-auto px-6">
+    <% articles.each do |article| %>
+      <%= partial("article_card", locals: { article: article }) %>
+    <% end %>
+  </div>
+<% end %>
