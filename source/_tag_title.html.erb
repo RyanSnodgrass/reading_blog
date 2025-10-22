@@ -1,0 +1,11 @@
+<% content_tag :h2, class: "text-4xl font-serif text-center" do %>
+  <% tagname.split('').each do |char| %>
+    <% if char =~ /[A-Z]/ %>
+      <% content_tag :span, class: "text-7xl" do %>
+        <% char %>
+      <% end %>
+    <% else %>
+      <%= char.upcase %>
+    <% end %>
+  <% end %>
+<% end %>
