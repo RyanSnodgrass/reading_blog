@@ -10,7 +10,7 @@ module.exports = {
       fontFamily: {
         'sans': ['Karla', 'ui-sans-serif', 'system-ui'],
         'serif': ['playfair display'],
-        'navbar': ['lato']
+        'lato': ['lato']
       },
       colors: {
         // https://coolors.co/palette/003049-d62828-f77f00-fcbf49-eae2b7
