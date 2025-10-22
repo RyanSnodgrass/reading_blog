@@ -7,8 +7,8 @@
       <!-- <li class=<%= current_page?("/about.html") ? "nav-link-active" : "nav-link" %>>
         <a href="/about.html">About</a>
       </li> -->
-      <li class=<%= current_page?("/tags/reading.html") ? "nav-link-active" : "nav-link" %>>
-        <%= link_to "All Posts", tag_path("Reading") %>
+      <li class=<%= current_page?("/all_posts.html") ? "nav-link-active" : "nav-link" %>>
+        <%= link_to "All Posts", "/all_posts.html" %>
         <!-- <a href="<%= tag_path("Reading")%>">Reading</a> -->
       </li>
       <li class=<%= current_page?("/book_reviews.html") ? "nav-link-active" : "nav-link" %>>
