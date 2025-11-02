@@ -4,6 +4,7 @@ title: The Psychology of Money
 date: 2025-09-09 16:14 UTC
 author: Morgan Housel
 estimated_time: 2 min
+wordcount: 80000
 publish_date: 2020
 published: true
 tags: 

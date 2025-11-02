@@ -6,6 +6,7 @@ cover_image: world_war_z/world_war_z.jpg
 author: Max Brooks
 estimated_time: 3 min
 publish_date: 2006
+wordcount: 117000
 excerpt: A realistic vision of a zombie apocalypse
 tags:
   - Review

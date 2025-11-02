@@ -10,6 +10,7 @@ tags:
   - Reading
 author: Matthew Lewis
 estimated_time: 6.5 min
+wordcount: 137000
 publish_date: 1796
 excerpt: This book was so lewd, profane, and obscene it was considered criminal. Is it today?
 cover_image: the_monk/TheMonk.jpg

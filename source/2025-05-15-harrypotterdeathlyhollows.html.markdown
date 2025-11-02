@@ -4,6 +4,7 @@ title: Harry Potter and the Deathly Hollows
 date: 2025-05-15 00:39 UTC
 author: J.K. Rowling
 estimated_time: 4 min
+wordcount: 198000
 publish_date: 2007
 published: true
 tags: 
