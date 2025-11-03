@@ -4,7 +4,7 @@ date: 2025-11-02 15:12 UTC
 author: Neil Gaiman
 wordcount: 70000
 estimated_time: 3 min
-published: false
+published: true
 publish_date: 2008
 excerpt: A deliciously macabre childrens' book
 cover_image: the_graveyard_book/the_graveyard_book_cover.jpg
