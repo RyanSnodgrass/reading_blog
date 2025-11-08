@@ -4,6 +4,7 @@ title: A Storm Of Swords
 date: 2025-10-16 00:45 UTC
 author: George R. R. Martin
 estimated_time: 3 min
+wordcount: 415000
 publish_date: 2000
 published: true
 tags: 

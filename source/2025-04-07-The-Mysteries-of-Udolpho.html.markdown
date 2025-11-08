@@ -4,6 +4,7 @@ title: The Mysteries Of Udolpho
 date: 2025-04-07 02:08 UTC
 author: Anne Radcliffe
 estimated_time: 13 min
+wordcount: 290000
 publish_date: 1794
 published: true
 tags: 

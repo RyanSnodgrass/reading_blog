@@ -43,6 +43,7 @@ activate :blog do |blog|
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
+  blog.new_article_template = "/Users/ryansnodgrass/Code/reading_blog/source/article_template.erb"
 
   # Enable pagination
   blog.paginate = true
