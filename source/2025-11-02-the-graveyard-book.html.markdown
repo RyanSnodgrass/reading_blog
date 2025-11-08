@@ -17,7 +17,7 @@ tags:
   - Fiction
 ---
 
-> There was a hand in the darkness, and it held a knife. P1
+> There was a hand in the darkness, and it held a knife. _pg 1_
 
 The man Jack wipes the blood off his knife as he walks up the stairs. He’s already killed the Mother, Father, and older sibling. Now he’s set to finish the job - an 18 month old toddler. However, because the man Jack left the front door open and woke the little boy- he has already toddled his way out and down the street to the old cemetery. Niel Gaiman’s deliciously macabre children’s book tells the tale of a boy who grows up in a cemetery and raised by ghosts. They name him Nobody Owens, or “Bod” for short.
 
