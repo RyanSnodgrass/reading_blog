@@ -4,7 +4,7 @@ date: 2025-12-09 03:25 UTC
 author: Shirley Jackson
 wordcount: 65000
 estimated_time: 1 min
-published: false
+published: true
 publish_date: 1959
 excerpt: Some solid atmosphere makes this a great Halloween novel
 cover_image: the_haunting_of_hill_house/hill_house_cover.jpg
