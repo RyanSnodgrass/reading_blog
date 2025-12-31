@@ -1,18 +1,25 @@
 ---
-title: the-castle-of-otranto
+title: The Castle Of Otranto
 date: 2025-12-31 19:46 UTC
-author:
-wordcount:
-estimated_time:
-published: false
-publish_date:
-excerpt:
-cover_image:
-tags: []
+author: Horace Walpole
+wordcount: 37000
+estimated_time: 10 min
+published: true
+publish_date: 1764
+excerpt: The English world's first horror novel
+cover_image: castle-of-otranto/otranto-cover-image.jpg
+tags:
+  - Review
+  - English
+  - Gothic
+  - Fiction
+  - Reading
 ---
 
+Originally published anonymously with a forward that claimed this to be a translation of a middle age italian manuscript. It was popular upon it's release and ushered in the Gothic novel genre.
 
-Chapter 1
+# Chapter 1
+
 We open the book to Manfred, the Lord of Otranto celebrating the wedding of his only son Conrad’s wedding. Within the very first page a freak tragedy occurs. A giant ceremonial helmet falls off its perch and crushes Conrad- killing him. Manfred in a blind rage seizes the nearest person - a young peasant, and accuses him of the murder. Manfred orders the peasant to be crushed under the helmet. Everyone voices their displeasure but Manfred will hear none of it.  
 
 Later, the bride Isabella, daughter to the Marquis of Vicenza which claims dominion over Otranto, is summoned to a gallery by Manfred. Instead of comforting her, Manfred explains that _he_ is now going to marry Isabella. He also plans to divorce his wife Hipollita who has not borne him many children. Isabella is shocked and flees from him with Manfred in pursuit. Already we have the first main trope of a Gothic novel - a cruel castle lord pursuing a young maiden. During the chase Manfred passes the picture of his grandfather, and another Gothic trope- a ghost steps out and beckons Manfred to follow him to a locked door. 
@@ -23,7 +30,8 @@ Already within the first chapter we have the framework of what becomes a Gothic 
 
 The supernatural occurrences become set up for later in the novel when Manfred’s actual claim to the principality of Otranto comes into question.
 
-Chapter 2
+# Chapter 2
+
 Matilda and her servant Bianca in Matilda’s room discuss marriage, how handsome the young peasant was, hear some possibly supernatural sounds, and briefly talk with a singer in a window below. A servant comes in and informs them that the local priest - Father Jerome has found Isabella in his church. He says Isabella wishes to remain in the church until she can find a suitable marriage and that she explicitly finds Manfred and his wife as her “parents.” Manfred of course says - no return her to my castle. 
 
 Manfred and Father Jerome have a private conversation. Manfred explains his plot to marry Isabella and divorce Hipollita and asks the priest for his assistance. Father Jerome finds this appalling and attempts to delay by sending a letter to the church for advice. Manfred asks the priest about the young peasant, certain there is some connection with Isabella. The priest, wanting to throw Manfred off Isabella by harbouring some animosity lies and confirms his suspicion. This backfires. Manfred, enraged, orders the youth before him. Who are you, how do you know Isabella and such. The peasant says his name is Theodore. Meanwhile Matilda and Bianca overhear the interrogation and come over. Bianca thinks he looks like Alfonso’s picture in the gallery. 
@@ -37,7 +45,8 @@ Theodore wishes for his last rites and when Father Jerome comes over Theodore’
 
 
 
-Chapter 3
+# Chapter 3
+
 Manfred instructs Father Jerome to see who is at the door. Jerome inquires and the reply said he is “the Knight of the Gigantic Sabre” and wishes to speak to the “usurper of Otranto.” Manfred, enraged at the insolence, instructs Jerome to fetch Isabella and his son Theodore led under guard to the top of the black tower. 
 
 Manfred asks who are you? The knight replies he is from the Marquis of Vicenza and he demands Isabella returned and Manfred to give up Otranto which he has "usurped from said Lord Frederic, the nearest blood to the last rightful Lord Alfonso the good.” If he doesn’t comply, the knight will fight him in single combat. Lord Frederic is approaching but still a league away. Manfred had heard this claim before. Frederic’s ancestors had assumed the title of Otronto after Alfonso died without heirs. Manfred’s father and grandfather had taken Otranto and been too powerful for Vicenza to dispossess them. Lord Frederic’s wife died in childbirth to Isabella and so grief stricken he left for the crusade where he was reported to have been wounded, made prisoner, and died. When Manfred learned this he bribed Isabella’s guardians to marry her to his son to further his claim to Otranto. Now that his son is dead, he needs to marry Isabella for legitimacy. Manfred tells the knight his lord is welcome inside safely for parlè. 
@@ -65,7 +74,8 @@ Theodore makes it to the caves where he finds Isabella. He vows to protect her. 
 
 The two cross swords and Theodore mortally wounds the other knight and that is when the mistaken identity is revealed. The other knight is Isabella’s own father - Frederick the Marquis of Vicenza.  Manfred’s domestics appear and they all carry Frederick back to the castle.
 
-Chapter 4
+# Chapter 4
+
 Hippolita and Matilda meet the group and carry Frederick to the surgeons who say his wounds are not life threatening. Frederick recounts the tale of how he came to want his daughter back.
 
 While in captivity he had a dream that his daughter was trapped in a castle and in danger. If he escaped to a forest in Jappa he would know more. Luckily he was ransomed out. In Jappa he found a hermit in a cave who directed him to dig. He found the giant sword. On the blade was a prophecy. Wherever the armor matches this sword, the daughter is in danger, Alfonso can save her from a prince’s shade. 
@@ -74,7 +84,7 @@ Manfred and Father Jerome come in and Theodore, still in his suit of armor, terr
 
 Theodore tells his story. At the age of 5 he was taken with his mother by raiders. She died shortly after but not before writing that he was the son of the count Falconara. When his estate was raised by rovers, Count Falconara sold everything and became a monk. 2 years ago Theodore escaped and has been looking for his father since. 
 
-Matilda and Isabella chat. Isabella hates Theodore for wounding her father while matilda denies deep friendship with him, but defends him anyway. THey both comment how much he looks like Alfonso’s painting. Isabella thinks Theodore has feelings for Matilda.
+Matilda and Isabella chat. Isabella hates Theodore for wounding her father while Matilda denies deep friendship with him, but defends him anyway. They both comment how much he looks like Alfonso’s painting. Isabella thinks Theodore has feelings for Matilda.
 
 Hippolita joins them to inform them that to strengthen their position they will marry Matilda to Frederick. Isabella knows this is a bad idea since Manfred plans to divorce Hippolita and marry her. She crys out that she won’t do it.
 
@@ -84,7 +94,8 @@ Meanwhile, Manfred is proposing the double marriage to Frederick. Frederick, smi
 
 When Manfred comes to the church he finds Hippolta and Jerome. Father Jerome tells Manfred his plan is terrible and everyone knows about it. Manfred says that doesn’t matter, it’s already done. The nose of Alfonso’s statue drips three blood drops and Father Jerome takes it as a sign of ill portent. Manfred proclaims Jerome and Theodore traitors and secretly leaves an attendant to spy on the church. 
 
-Chapter 5
+# Chapter 5
+
 Manfred and Hippolita discuss the plan. Hippolita will support it, but won’t promote it, instead wanting Manfred to resign his dominions. Manfred asks Bianca if Isabella is interested in anyone. She says no, but hey Theodore is a great guy.
 
 Manfred talks to Frederick to further the marriage plans, but is interrupted by Bianca- the giant ghostly armor is back and she is near fainting. 
