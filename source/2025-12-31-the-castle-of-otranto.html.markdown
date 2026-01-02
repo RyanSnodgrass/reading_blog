@@ -22,7 +22,7 @@ Originally published anonymously with a foreword that claimed this to be a trans
 
 We open the book to Manfred, the Lord of Otranto celebrating the wedding of his only son Conrad’s wedding. Within the very first page a freak tragedy occurs. A giant ceremonial helmet falls off its perch and crushes Conrad- killing him. Manfred in a blind rage seizes the nearest person - a young peasant, and accuses him of the murder. Manfred orders the peasant to be crushed under the helmet. Everyone voices their displeasure but Manfred will hear none of it.  
 
-Later, the bride Isabella, daughter to the Marquis of Vicenza which claims dominion over Otranto, is summoned to a gallery by Manfred. Instead of comforting her, Manfred explains that _he_ is now going to marry Isabella. He also plans to divorce his wife Hipollita who has not borne him many children. Isabella is shocked and flees with Manfred in pursuit. Already we have the first main trope of a Gothic novel - a cruel castle lord pursuing a young maiden. During the chase Manfred passes the picture of his grandfather, and another Gothic trope- a ghost steps out and beckons Manfred to follow him to a locked door. 
+Later, the bride Isabella, daughter to the Marquis of Vicenza who claims dominion over Otranto, is summoned to a gallery by Manfred. Instead of comforting her, Manfred explains that _he_ is now going to marry Isabella. He also plans to divorce his wife Hipollita who has not borne him many children. Isabella is shocked and flees with Manfred in pursuit. Already we have the first main trope of a Gothic novel - a cruel castle lord pursuing a young maiden. During the chase Manfred passes the picture of his grandfather, and another Gothic trope- a ghost steps out and beckons Manfred to follow him to a locked door. 
 
 Isabella flees beneath the castle in some ancient tunnels and finds the young peasant. The helmet was so large it cracked a hole in the floor and he was able to slip through it into these ancient tunnels. The young peasant helps Isabella escape but in doing so alerts Manfred of his presence. Manfred, on finding him, is interrupted in the interrogation by a couple of bumbling comedic relief servants. They tell Manfred of a ghostly set of gigantic armor that made a frightening rattle noise. Tired Manfred returns to his chambers. 
 
@@ -55,7 +55,7 @@ Father Jerome returning to the church hears a rumor that Hippolita is dead. Isab
 
 Manfred opens the gates and the knight and his host enter. Banners, footmen, pages, and horses make a formidable host. They are also carrying something supernatural.
 
-> An hundred gentlemen bearing an enormous sword, and seaming to faint under the weight of it.” p60
+> An hundred gentlemen bearing an enormous sword, and seeming to faint under the weight of it.” p60
 
 The crushing helmet stirs on its own. Manfred leads the knights in, he stops to kneel at the casque, helmet, and seems to pray inwardly for a moment. 
 
@@ -100,7 +100,7 @@ Manfred and Hippolita discuss the plan. Hippolita will support it, but won’t p
 
 Manfred talks to Frederick to further the marriage plans, but is interrupted by Bianca- the giant ghostly armor is back and she is near fainting. 
 
-Everyone is invited to the banquet hall for dinner where Manfred nearly makes a fool of himself with heavy drinking. Afterwards Frederick went to find Hippolita in her apartment, but instead finds a ghost. Skeleton face in a monk’s attire, the ghost reminds Fredericka that he’s here for the prophecy on the sabre, not “Matilda’s carnal delights p98.”
+Everyone is invited to the banquet hall for dinner where Manfred nearly makes a fool of himself with heavy drinking. Afterwards Frederick went to find Hippolita in her apartment, but instead finds a ghost. Skeleton face in a monk’s attire, the ghost reminds Frederick that he’s here for the prophecy on the sabre, not “Matilda’s carnal delights p98.”
 
 Frederick leaves Hippolita’s apartment and is interrupted by a drunken Manfred. Manfred wants to spend a few merry hours with him with music and revelling. But Frederick finds this “dissonant with his mood.” Frederick rudely pushes Manfred away and goes to his bedchamber. 
 
