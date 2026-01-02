@@ -100,7 +100,7 @@ Some other things happen that shed light on her father's hidden past. Finally, a
 
 # Conclusion
 
-![enough with the landscape descriptions](The_mysteries_of_udolpho/overwriting-udolpho-meme.jpg)
+![enough with the landscape descriptions](The_mysteries_of_udolpho/meme.jpg)
 
 Radcliffe really needed an editor to cut the excessive descriptions in the beginning and give Emily more agency. At one point Montoni locks her in a side room. There is a brawl amongst Montoni’s men and in the chaos Emily breaks free. But she doesn’t do anything, she wanders the halls and does fuck all before finding her room and sitting down.
 
