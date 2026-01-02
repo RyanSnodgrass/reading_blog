@@ -16,7 +16,7 @@ tags:
   - Reading
 ---
 
-Originally published anonymously with a foreword that claimed this to be a translation of a middle age italian manuscript. It was popular upon its release and ushered in the Gothic novel genre.
+Originally published anonymously with a foreword that claimed this to be a translation of a middle age Italian manuscript. It was popular upon its release and ushered in the Gothic novel genre.
 
 # Chapter 1
 
