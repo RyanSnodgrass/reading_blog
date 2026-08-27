@@ -4,7 +4,7 @@ date: 2026-08-27 03:50 UTC
 author: Jim Butcher
 wordcount:
 estimated_time: 6 min
-published: false
+published: true
 publish_date: 2015
 excerpt:
 cover_image: the_aeronauts_windlass/the_aeronauts_windlass_cover.jpg
