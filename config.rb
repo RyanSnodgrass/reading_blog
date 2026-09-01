@@ -89,6 +89,16 @@ helpers do
 
     image_path.sub(/\.(\w+)$/, "-#{variant}.\\1")
   end
+
+  def image_srcset(image_path, variant_base = :thumb)
+    image_path = image_path.to_s.strip
+    return '' unless build?
+
+    base_1x = image_variant(image_path, variant_base)
+    base_2x = image_variant(image_path, "#{variant_base}_2x")
+
+    "#{base_1x} 1x, #{base_2x} 2x"
+  end
 end
 
 # Build-specific configuration

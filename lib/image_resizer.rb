@@ -4,8 +4,10 @@ require 'pathname'
 class ImageResizer
   # Define image variants: name => [width, height, quality]
   VARIANTS = {
-    thumb: [400, 300, 95],  # For article cards
-    md: [800, 600, 95]      # For article view
+    thumb: [400, 300, 90],      # For article cards (1x)
+    thumb_2x: [800, 600, 90],   # For article cards (2x/high-DPI)
+    md: [800, 600, 90],         # For article view (1x)
+    md_2x: [1600, 1200, 90]     # For article view (2x/high-DPI)
   }.freeze
 
   def self.resize_images(build_dir)
