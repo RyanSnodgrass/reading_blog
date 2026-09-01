@@ -12,6 +12,12 @@
     <link rel="manifest" href="images/site.webmanifest">
     <title>Ryan's Blog<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+    <!-- Cloudflare Web Analytics -->
+    <script type='module'
+            src='https://static.cloudflareinsights.com/beacon.min.js'
+            data-cf-beacon='{"token": "39d724aad2b24d1c8f0176eba411206a"}'>
+    </script>
+    <!-- End Cloudflare Web Analytics -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
