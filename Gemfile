@@ -28,3 +28,6 @@ gem 'htmlbeautifier'
 
 # Used to make summaries
 gem 'nokogiri'
+
+# Image resizing during build
+gem 'mini_magick'

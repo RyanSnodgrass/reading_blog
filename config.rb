@@ -1,6 +1,8 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+require_relative 'lib/image_resizer'
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
@@ -77,6 +79,11 @@ helpers do
   def book_reviews
     blog.articles.select { |a| ["Reading", "Review"].all? { |tag| a.tags.include?(tag) } }
   end
+
+  def image_variant(image_path, variant = :original)
+    return image_path if variant == :original
+    image_path.sub(/\.(\w+)$/, "-#{variant}.\1")
+  end
 end
 
 # Build-specific configuration
@@ -99,3 +106,7 @@ activate :external_pipeline,
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, smartypants: true
 activate :syntax
+
+after_build do |builder|
+  ImageResizer.resize_images(config[:build_dir])
+end
