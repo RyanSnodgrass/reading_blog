@@ -97,7 +97,9 @@ helpers do
     base_1x = image_variant(image_path, variant_base)
     base_2x = image_variant(image_path, "#{variant_base}_2x")
 
-    "#{base_1x} 1x, #{base_2x} 2x"
+    # Use width descriptors (400w, 800w) instead of pixel-density (1x, 2x)
+    # This allows the sizes attribute to work properly
+    "#{base_1x} 400w, #{base_2x} 800w"
   end
 end
 
