@@ -82,7 +82,7 @@ helpers do
 
   def image_variant(image_path, variant = :original)
     return image_path if variant == :original
-    image_path.sub(/\.(\w+)$/, "-#{variant}.\1")
+    image_path.sub(/\.(\w+)$/, "-#{variant}.\\1")
   end
 end
 
