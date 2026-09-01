@@ -81,7 +81,12 @@ helpers do
   end
 
   def image_variant(image_path, variant = :original)
+    image_path = image_path.to_s.strip
     return image_path if variant == :original
+
+    # In development, use original images. In production builds, use variants.
+    return image_path unless build?
+
     image_path.sub(/\.(\w+)$/, "-#{variant}.\\1")
   end
 end
