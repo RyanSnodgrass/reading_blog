@@ -1,6 +1,8 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+require_relative 'lib/image_resizer'
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
@@ -77,6 +79,28 @@ helpers do
   def book_reviews
     blog.articles.select { |a| ["Reading", "Review"].all? { |tag| a.tags.include?(tag) } }
   end
+
+  def image_variant(image_path, variant = :original)
+    image_path = image_path.to_s.strip
+    return image_path if variant == :original
+
+    # In development, use original images. In production builds, use variants.
+    return image_path unless build?
+
+    image_path.sub(/\.(\w+)$/, "-#{variant}.avif")
+  end
+
+  def image_srcset(image_path, variant_base = :thumb)
+    image_path = image_path.to_s.strip
+    return '' unless build?
+
+    base_1x = image_variant(image_path, variant_base)
+    base_2x = image_variant(image_path, "#{variant_base}_2x")
+
+    # Use width descriptors (400w, 800w) instead of pixel-density (1x, 2x)
+    # This allows the sizes attribute to work properly
+    "#{base_1x} 400w, #{base_2x} 800w"
+  end
 end
 
 # Build-specific configuration
@@ -99,3 +123,7 @@ activate :external_pipeline,
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, smartypants: true
 activate :syntax
+
+after_build do |builder|
+  ImageResizer.resize_images(config[:build_dir])
+end

@@ -6,7 +6,7 @@
       <!-- flex around different view sizes for the cover pic and title -->
       <div class="flex flex-col md:flex-row gap-x-6">
         <div class="flex justify-center">
-          <%= image_tag current_article.data.cover_image.to_s, class: "max-w-72 md:w-52" %>
+          <%= image_tag image_variant(current_article.data.cover_image.to_s, :thumb_2x), class: "max-w-72 md:w-52" %>
         </div>
         <div class="">
           <h1 class="text-4xl font-sans font-bold pt-8 md:pt-1">
