@@ -87,7 +87,7 @@ helpers do
     # In development, use original images. In production builds, use variants.
     return image_path unless build?
 
-    image_path.sub(/\.(\w+)$/, "-#{variant}.\\1")
+    image_path.sub(/\.(\w+)$/, "-#{variant}.avif")
   end
 
   def image_srcset(image_path, variant_base = :thumb)

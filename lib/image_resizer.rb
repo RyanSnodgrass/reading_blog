@@ -4,10 +4,8 @@ require 'pathname'
 class ImageResizer
   # Define image variants: name => [width, height, quality]
   VARIANTS = {
-    thumb: [400, 300, 90],      # For article cards (1x)
-    thumb_2x: [800, 600, 90],   # For article cards (2x/high-DPI)
-    md: [800, 600, 90],         # For article view (1x)
-    md_2x: [1600, 1200, 90]     # For article view (2x/high-DPI)
+    thumb: [400, 300, 95],      # For article cards (1x)
+    thumb_2x: [800, 600, 95],   # For article cards (2x/high-DPI)
   }.freeze
 
   def self.resize_images(build_dir)
@@ -46,8 +44,8 @@ class ImageResizer
       # Resize to fit within dimensions while maintaining aspect ratio (no cropping)
       image.resize "#{width}x#{height}"
 
-      # Set quality for JPG
-      image.quality quality.to_s if original_path.extname.downcase == '.jpg'
+      image.format 'avif'
+      image.quality quality.to_s
 
       image.write variant_path.to_s
       puts "Generated: #{variant_path.relative_path_from(@build_dir)}"
@@ -58,7 +56,6 @@ class ImageResizer
 
   def variant_filename(original_path, variant_name)
     basename = original_path.basename(original_path.extname).to_s
-    extension = original_path.extname
-    original_path.parent.join("#{basename}-#{variant_name}#{extension}")
+    original_path.parent.join("#{basename}-#{variant_name}.avif")
   end
 end
