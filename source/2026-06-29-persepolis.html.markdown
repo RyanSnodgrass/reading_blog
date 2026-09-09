@@ -6,7 +6,7 @@ wordcount: 100_000
 estimated_time: 3 min
 published: true
 publish_date: 2004
-excerpt: A deeply moving and humanising view into the daily lives of an Iranian girl
+excerpt: A deeply moving and humanising view into the daily life of an Iranian girl
 cover_image: persepolis/persepolis_cover.jpg
 tags: 
   - Review
