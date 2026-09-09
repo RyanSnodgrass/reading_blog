@@ -7,7 +7,7 @@ pagecount: 630
 estimated_time: 6 min
 published: true
 publish_date: 2015
-excerpt: Some bland locations limit what could have been a truly solid romp
+excerpt: Uninspired locations and bland scenarios limit what could have been a truly solid romp
 cover_image: the_aeronauts_windlass/the_aeronauts_windlass_cover.jpg
 tags: 
   - Steampunk
