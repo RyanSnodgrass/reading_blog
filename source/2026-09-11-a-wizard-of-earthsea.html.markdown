@@ -11,11 +11,11 @@ excerpt:
 cover_image: a_wizard_of_earthsea/a_wizard_of_earthsea_cover.jpg
 tags:
   - Fantasy
-  - Youngadult
+  - Young Adult
+  - American
   - Review
   - Fiction
   - Reading
-  - American
 ---
 
 
