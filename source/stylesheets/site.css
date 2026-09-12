@@ -85,4 +85,10 @@
   .article-card:hover .article-card-title{
     @apply underline;
   }
+  .ranking-tier-label {
+    @apply bg-red-400 h-32 w-32;
+  }
+  .ranking-tier-sort {
+    @apply bg-gray-800 h-32 w-full;
+  }
 }
