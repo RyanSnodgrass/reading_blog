@@ -92,6 +92,6 @@
     @apply bg-gray-800 min-h-60 w-full divide-gray-950 flex flex-wrap;
   }
   .ranking-tier-image {
-    @apply shrink-0 h-60 w-40 hover:cursor-pointer;
+    @apply object-cover shrink-0 h-60 w-40 hover:cursor-pointer;
   }
 }
