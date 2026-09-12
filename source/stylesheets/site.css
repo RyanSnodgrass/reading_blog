@@ -86,9 +86,12 @@
     @apply underline;
   }
   .ranking-tier-label {
-    @apply h-32 w-32 flex items-center justify-center;
+    @apply min-h-60 w-32 flex items-center justify-center;
   }
   .ranking-tier-sort {
-    @apply bg-gray-800 h-32 w-full;
+    @apply bg-gray-800 min-h-60 w-full divide-gray-950 flex flex-wrap;
+  }
+  .ranking-tier-image {
+    @apply shrink-0 h-60 w-40;
   }
 }
