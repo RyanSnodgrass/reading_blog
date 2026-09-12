@@ -6,7 +6,9 @@
       </div>
       <div class="ranking-tier-sort">
         <% blog.articles.select { |a| a.data.ranking == "S" }.each do |article| %>
-          <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% link_to(article) do %>
+            <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% end %>
         <% end %>
       </div>
     </div>
@@ -17,7 +19,9 @@
       </div>
       <div class="ranking-tier-sort">
         <% blog.articles.select { |a| a.data.ranking == "A" }.each do |article| %>
-          <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% link_to(article) do %>
+            <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% end %>
         <% end %>
       </div>
     </div>
@@ -28,7 +32,9 @@
       </div>
       <div class="ranking-tier-sort">
         <% blog.articles.select { |a| a.data.ranking == "B" }.each do |article| %>
-          <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% link_to(article) do %>
+            <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% end %>
         <% end %>
       </div>
     </div>
@@ -39,7 +45,9 @@
       </div>
       <div class="ranking-tier-sort">
         <% blog.articles.select { |a| a.data.ranking == "C" }.each do |article| %>
-          <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% link_to(article) do %>
+            <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% end %>
         <% end %>
       </div>
     </div>
@@ -50,7 +58,9 @@
       </div>
       <div class="ranking-tier-sort">
         <% blog.articles.select { |a| a.data.ranking == "D" }.each do |article| %>
-          <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% link_to(article) do %>
+            <%= image_tag image_variant(article.data.cover_image.to_s, :thumb_2x), class: "ranking-tier-image" %>
+          <% end %>
         <% end %>
       </div>
     </div>
