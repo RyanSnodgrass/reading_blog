@@ -14,7 +14,7 @@ tags:
   - American
   - Reading
   - Fiction
-
+ranking: S
 ---
 
 I once watched a National Geographic special on a pride of lions that had adapted to hunting water buffalo.

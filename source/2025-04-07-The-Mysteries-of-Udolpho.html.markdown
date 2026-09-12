@@ -15,6 +15,7 @@ tags:
   - Reading
 excerpt: The archetypal Gothic novel is a challenge for even the most dedicated readers
 cover_image: The_mysteries_of_udolpho/the-mysteries-of-udolpho.jpg
+ranking: D
 ---
 
 

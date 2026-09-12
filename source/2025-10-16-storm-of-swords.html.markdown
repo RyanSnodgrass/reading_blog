@@ -16,6 +16,7 @@ tags:
   - A Song of Ice and Fire
 excerpt: Martin's writing elevates an already highly regarded series
 cover_image: a_storm_of_swords/a_storm_of_swords_cover.jpg
+ranking: A
 ---
 
 Like many, I loved HBO’s ground-breaking adaptation of _Game Of Thrones_.

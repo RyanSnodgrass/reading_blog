@@ -16,6 +16,7 @@ tags:
   - Fantasy
 excerpt: This Goosebumps fan doesn't think Harry Potter is
 cover_image: harry_potter_deathly_hallows/harry_potter_deathly_hallows.jpg
+ranking: A
 ---
 
 I had a reading disability early in childhood. I don’t remember what the exact issue was, but I do remember having to leave class for extra lessons. Usually during something I was enjoying like a Berenstain Bears VHS and let me tell you, Berenstain Bears was the highlight of my school week back then.

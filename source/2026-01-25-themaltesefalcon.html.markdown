@@ -15,7 +15,7 @@ tags:
   - American
   - Fiction
   - Reading
-
+ranking: A
 ---
 
 Let me introduce you to one of the coolest cats in literature - the hardboiled detective Sam Spade. He is cynical, detached, and exclusively follows his own ambiguous moral code. We follow Sam as he tries to tail a possible kidnapper before his partner gets murdered, throwing Sam into a complex web of lies, deceit, betrayal, and jewel encrusted bird statues. 

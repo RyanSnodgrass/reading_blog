@@ -15,7 +15,7 @@ tags:
   - Fiction
   - American
   - Reading
-
+ranking: B
 ---
 
 Mistborn by Brandon Sanderson is a Young Adult fantasy novel about a young street urchin, Vin, who discovers that she is a rare magic user. She gets recruited by Kelsier, the charismatic leader of a band of thieves for the heist of the millennium - topple the evil overlord. In this book the villain already won and has been ruling the planet with terribleness for over a thousand years.

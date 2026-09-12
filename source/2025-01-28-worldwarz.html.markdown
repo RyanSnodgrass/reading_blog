@@ -13,7 +13,7 @@ tags:
   - American
   - Fiction
   - Reading
-
+ranking: A
 ---
 
 I got _World War Z_ by Max Brooks as a Christmas gift and needing a break from the drudgery of _The Mysteries Of Udolpho_, I devoured it in a week.

@@ -15,6 +15,7 @@ tags:
   - Fiction
   - Self Help
   - Spiritual
+ranking: A
 ---
 
 The book opens with Santiago, a shepherd in the southern country of Spain. He's content with his life, but I think deep down, not really. He became a shepherd to travel the countryside, but now he harbors dark dreams about his flock and desires a beautiful merchant's daughter in a nearby town. 

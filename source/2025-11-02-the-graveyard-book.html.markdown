@@ -15,6 +15,7 @@ tags:
   - Reading
   - English
   - Fiction
+ranking: A
 ---
 
 > There was a hand in the darkness, and it held a knife. _pg 1_

@@ -14,7 +14,7 @@ tags:
   - American
   - Reading
   - Fiction
-
+ranking: A
 ---
 
 I picked up _The Haunting of Hill House_ on yet another whim at my local library. I guess I just wasn’t ready to let Halloween die.
