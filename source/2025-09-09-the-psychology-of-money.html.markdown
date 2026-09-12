@@ -14,7 +14,7 @@ tags:
   - Reading
 excerpt: Financial stories
 cover_image: the_psychology_of_money/the_psychology_of_money_cover.jpg
-
+ranking: B
 ---
 
 I’ve only ever read 2 finance books: Dave Ramsey’s _Total Money Makeover_ and Robert Kiyasaki’s _Rich Dad Poor Dad_. So I’m not sure what I can bring to the discussion when it comes to reviewing my third finance book: _The Psychology of Money_ by Morgan Housel. I am a Dave Ramsey acolyte. He got me out of a rough period post college (read: student loans). I believe it’s not just fiscally responsible to live debt free, it’s almost a moral obligation as well. In the same way you should return a shopping cart, you shouldn’t have consumer debt. 

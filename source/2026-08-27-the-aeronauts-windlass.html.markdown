@@ -16,7 +16,7 @@ tags:
   - Reading
   - Fiction
   - Review
-
+ranking: C
 ---
 
 Man, I wanted to like this one so much, instead I found it disappointing. It was on my research list for a steampunk pulp-fiction DnD campaign and I needed a break from _The Count of Monte Cristo_. One of my favorite aesthetics is steampunk Skycaptain and the World of Tomorrow. 

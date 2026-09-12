@@ -15,7 +15,7 @@ tags:
   - Memoir
   - Autobiography
   - Reading
-
+ranking: A
 ---
 
 It's a memoir / autobiography of the author growing up as a girl during the Iranian Cultural Revolution. While she clearly loves her country and is proud of the history and culture, she is incredibly critical of the religious and oppressive forces emanating from the authoritarian regime.

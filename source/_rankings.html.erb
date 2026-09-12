@@ -2,10 +2,12 @@
   <div id="rankings" class="common-width bg-gray-950 border-y-2 border-y-gray-950 divide-y-2 divide-gray-950">
     <div class="flex flex-row">
       <div class="ranking-tier-label bg-rose-400">
-        GOAT
+        S
       </div>
       <div class="ranking-tier-sort">
-        goodbye
+        <% blog.articles.select { |a| a.data.ranking == "S" }.each do |article| %>
+          <div class="text-white"><%= article.title %></div>
+        <% end %>
       </div>
     </div>
 
@@ -14,7 +16,9 @@
         A
       </div>
       <div class="ranking-tier-sort">
-        goodbye
+        <% blog.articles.select { |a| a.data.ranking == "A" }.each do |article| %>
+          <div class="text-white"><%= article.title %></div>
+        <% end %>
       </div>
     </div>
 
@@ -23,7 +27,9 @@
         B
       </div>
       <div class="ranking-tier-sort">
-        goodbye
+        <% blog.articles.select { |a| a.data.ranking == "B" }.each do |article| %>
+          <div class="text-white"><%= article.title %></div>
+        <% end %>
       </div>
     </div>
 
@@ -32,16 +38,20 @@
         C
       </div>
       <div class="ranking-tier-sort">
-        goodbye
+        <% blog.articles.select { |a| a.data.ranking == "C" }.each do |article| %>
+          <div class="text-white"><%= article.title %></div>
+        <% end %>
       </div>
     </div>
 
     <div class="flex flex-row">
-      <div class="ranking-tier-label bg-sky-300">
+      <div class="ranking-tier-label bg-sky-200">
         D
       </div>
       <div class="ranking-tier-sort">
-        goodbye
+        <% blog.articles.select { |a| a.data.ranking == "D" }.each do |article| %>
+          <div class="text-white"><%= article.title %></div>
+        <% end %>
       </div>
     </div>
   </div>

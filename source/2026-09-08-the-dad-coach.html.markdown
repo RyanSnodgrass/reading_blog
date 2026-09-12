@@ -16,6 +16,7 @@ tags:
   - Baseball
   - Review
   - Reading
+ranking: B
 ---
 
 As a dad to two boys, 7 and 2 years old, I am trying to be the best dad I can be. I’m not perfect, as every dad will say, but whenever my kids ask to play outside, my mantra has always been yes, no matter how tired or stressed I am. It’s one of the things I can say I’m good at. Half the time we go to a playground, the other half we’re in the backyard playing ball. I am not a former major leaguer, I didn’t even make it past coach-pitch little league as a kid, so I have very little athletic talent to pass down. But it’s working! The 7 year old is one of the best players on his baseball team and the 2 year old has one of the biggest legs in his little soccer club. I’m convinced it’s because we’re outside playing ball so damned much. Almost like if you do something often enough you’ll get good at it. A novel concept, I know. The hard part is having the energy to get outside that often, but the easy part is that it really doesn’t matter what kind of ”practice” it is: swinging a wiffle bat, throwing acorns, whatever keeps them engaged and having fun is all it needs to be.
