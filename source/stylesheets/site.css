@@ -86,7 +86,7 @@
     @apply underline;
   }
   .ranking-tier-label {
-    @apply bg-red-400 h-32 w-32;
+    @apply h-32 w-32 flex items-center justify-center;
   }
   .ranking-tier-sort {
     @apply bg-gray-800 h-32 w-full;
