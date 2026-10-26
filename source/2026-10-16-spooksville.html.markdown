@@ -5,7 +5,7 @@ author: Christopher Pike
 wordcount:
 pagecount: 129
 estimated_time: 3 min
-published: false
+published: true
 publish_date: 1995
 excerpt: Unlikeable characters, paper thin motivations, cringey flirtations, mercifully fast paced
 cover_image: spooksville/spooksville-cover.jpg
