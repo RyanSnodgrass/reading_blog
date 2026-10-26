@@ -7,7 +7,7 @@ pagecount: 129
 estimated_time: 3 min
 published: false
 publish_date: 1995
-excerpt:
+excerpt: Unlikeable characters, paper thin motivations, cringey flirtations, mercifully fast paced
 cover_image: spooksville/spooksville-cover.jpg
 tags:
   - Horror
@@ -20,7 +20,7 @@ ranking: D
 
 The Spooksville series was one of my favorites as a kid. I was a huge Goosebumps collector, but I think deep down I liked this series more. For the Halloween season this year I thought I'd revisit an old favorite and see if it was as good as I remember. Unfortunately, it wasn't- it was actually kinda bad. 
 
-We meet our protagonist Adam who recently moved to Springville. At the local ice cream shop he meets Sally, a tall, skinny, and beautiful girl. She immediately starts flirting with him in such a ham-fisted way it immediately put me off it. There's no subtlety, no build up. Just a greeting and oh hey, I think I love you. Our guy Adam’s response? A sheepish "thanks." She’s lived in town her whole life and it's her who informs Adam that locals call it "Spooksville" on account of all the weird things that happen. She has a huge crush on Adam and is apparently too young to process it because she spends the entire series teasing and bullying him. It started to grate on me and I found myself wishing she'd shut up. I don't remember the romantic side of this series, but I did have a crush on the girl next door so maybe I related to this back then?
+We meet our protagonist Adam who recently moved to Springville. At the local ice cream shop he meets Sally, a tall, skinny, and beautiful girl. Within the first couple exchanges she starts flirting with him in such a ham-fisted way it immediately put me off it. There's no subtlety, no build up. Just a greeting and oh hey, I think I love you. Our guy Adam’s response? A sheepish "thanks." She’s lived in town her whole life and it's her who informs Adam that locals call it "Spooksville" on account of all the weird things that happen. She has a huge crush on Adam and is apparently too young to process it because she spends the entire series teasing and bullying him. It started to grate on me and I found myself wishing she'd shut up. I don't remember the romantic side of this series, but I did have a crush on the girl next door so maybe I related to this back then?
 
 Sally introduces Adam to Watch, the other member of the gang. Watch's family is split up around the country in different time zones so he wears multiple watches to keep track, hence his nickname. A character quirk I tried emulating once or twice as a kid.
 
