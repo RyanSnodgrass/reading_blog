@@ -3,6 +3,7 @@ title: Persepolis
 date: 2026-06-29 14:21 UTC
 author: Marjane Satrapi
 wordcount: 100_000
+pages: 341
 estimated_time: 3 min
 published: true
 publish_date: 2004
