@@ -3,7 +3,7 @@ title: The Alchemist
 date: 2026-06-06 15:13 UTC
 author: Paulo Coelho
 wordcount: 45000
-pages: 163
+pages: 167
 estimated_time: 5 min
 published: true
 publish_date: 1993
